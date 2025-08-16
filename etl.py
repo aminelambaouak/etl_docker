@@ -3,7 +3,9 @@ import pandas as pd
 import logging
 import psycopg2
 from psycopg2.extras import execute_values
+from dotenv import load_dotenv
 
+load_dotenv()  # Load from .env
 # -----------------------------
 # Configure logging
 # -----------------------------
@@ -21,7 +23,7 @@ print("ETL script started")
 # -----------------------------
 # API fetch
 # -----------------------------
-URL = "https://my.api.mockaroo.com/trans?key=986c0130"
+URL = URL = f"https://my.api.mockaroo.com/trans?key={API_KEY}"
 CSV_FILE = "/home/amine/first_project/api_data/api_data.csv"
 
 try:
