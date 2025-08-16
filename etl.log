@@ -1419,3 +1419,193 @@ LINE 1: ...tion_date, shipping_country, total_price) VALUES ('7KR0NG3HD...
 2025-08-16 01:07:51,616 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
 2025-08-16 01:07:51,663 - INFO - Data loaded into PostgreSQL table 'transactions' successfully
 2025-08-16 01:07:51,663 - INFO - ETL job finished successfully
+2025-08-16 02:03:36,853 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:03:41,111 - INFO - Fetched 1000 records from API
+2025-08-16 02:07:46,133 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:07:50,157 - INFO - Fetched 1000 records from API
+2025-08-16 02:09:12,642 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:09:16,682 - INFO - Fetched 1000 records from API
+2025-08-16 02:09:16,687 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:09:16,691 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:09:16,694 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:09:16,694 - ERROR - Error loading data into PostgreSQL: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: No such file or directory
+	Is the server running locally and accepting connections on that socket?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 96, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: No such file or directory
+	Is the server running locally and accepting connections on that socket?
+
+2025-08-16 02:09:16,695 - INFO - ETL job finished successfully
+2025-08-16 02:11:52,791 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:11:53,806 - ERROR - Error fetching data: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 48, in <module>
+    response.raise_for_status()
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:13:20,080 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:13:21,521 - ERROR - Error fetching data: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 37, in <module>
+    response.raise_for_status()
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:13:21,524 - WARNING - DataFrame is empty. Skipping transformations.
+2025-08-16 02:13:21,524 - WARNING - DataFrame is empty. Skipping PostgreSQL loading.
+2025-08-16 02:13:21,524 - INFO - ETL job finished successfully
+2025-08-16 02:13:45,853 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:13:46,752 - ERROR - Error fetching data: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 37, in <module>
+    response.raise_for_status()
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://my.api.mockaroo.com/trans?key=YOUR_MOCKAROO_KEY
+2025-08-16 02:13:46,758 - WARNING - DataFrame is empty. Skipping transformations.
+2025-08-16 02:13:46,758 - WARNING - DataFrame is empty. Skipping PostgreSQL loading.
+2025-08-16 02:13:46,758 - INFO - ETL job finished successfully
+2025-08-16 02:14:42,336 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:14:46,265 - INFO - Fetched 1000 records from API
+2025-08-16 02:14:46,268 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:14:46,272 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:14:46,305 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:14:56,315 - ERROR - Error loading data into PostgreSQL: could not translate host name "db" to address: Name or service not known
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: Name or service not known
+
+2025-08-16 02:14:56,318 - INFO - ETL job finished successfully
+2025-08-16 02:16:34,651 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:16:38,952 - INFO - Fetched 1000 records from API
+2025-08-16 02:16:38,955 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:16:38,959 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:16:38,961 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:16:38,961 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-16 02:16:38,962 - INFO - ETL job finished successfully
+2025-08-16 02:16:50,145 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:16:54,217 - INFO - Fetched 1000 records from API
+2025-08-16 02:16:54,223 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:16:54,228 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:16:54,231 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:16:54,231 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-16 02:16:54,232 - INFO - ETL job finished successfully
+2025-08-16 02:22:58,967 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:23:03,471 - INFO - Fetched 1000 records from API
+2025-08-16 02:23:03,475 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:03,479 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:23:03,481 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:13,496 - ERROR - Error loading data into PostgreSQL: could not translate host name "db" to address: Name or service not known
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: could not translate host name "db" to address: Name or service not known
+
+2025-08-16 02:23:13,499 - INFO - ETL job finished successfully
+2025-08-16 02:23:35,821 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:23:39,560 - INFO - Fetched 1000 records from API
+2025-08-16 02:23:39,564 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:39,567 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:23:39,570 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:39,574 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5434 failed: FATAL:  database "first_project_db" does not exist
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5434 failed: FATAL:  database "first_project_db" does not exist
+
+2025-08-16 02:23:39,574 - INFO - ETL job finished successfully
+2025-08-16 02:23:54,341 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:23:59,074 - INFO - Fetched 1000 records from API
+2025-08-16 02:23:59,078 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:59,082 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:23:59,085 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:23:59,085 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-16 02:23:59,085 - INFO - ETL job finished successfully
+2025-08-16 02:24:07,179 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:24:10,916 - INFO - Fetched 1000 records from API
+2025-08-16 02:24:10,920 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:24:10,923 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:24:10,926 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:24:10,926 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5433 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-16 02:24:10,927 - INFO - ETL job finished successfully
+2025-08-16 02:24:23,292 - INFO - Fetching data from https://my.api.mockaroo.com/trans?key=986c0130
+2025-08-16 02:24:27,645 - INFO - Fetched 1000 records from API
+2025-08-16 02:24:27,654 - INFO - Data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:24:27,659 - INFO - Transformations applied: total_price calculated, missing IDs filled, return_flag removed
+2025-08-16 02:24:27,662 - INFO - Transformed data saved to /home/amine/first_project/transactions_transformed.csv
+2025-08-16 02:24:27,663 - ERROR - Error loading data into PostgreSQL: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+Traceback (most recent call last):
+  File "/home/amine/first_project/etl.py", line 105, in <module>
+    conn = psycopg2.connect(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/amine/first_project/venv/lib/python3.12/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.OperationalError: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-08-16 02:24:27,663 - INFO - ETL job finished successfully
