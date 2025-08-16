@@ -1,0 +1,1001 @@
+transaction_id,user_id,product_id,product_category,quantity,price_per_unit,payment_method,transaction_date,shipping_country,is_returned
+6Y03EV2DG47,70149,AM4741,Food - Dairy,14,2.99,americanexpress,6/25/2024,Indonesia,True
+8Q88N58FW85,70584,AI3634,Food - Condiments,45,2.49,maestro,9/27/2024,Ukraine,False
+4PT6YX6TP30,51040,WN5147,Accessories,1,19.99,jcb,9/10/2024,China,True
+3TG4GY0KE11,97359,LH1276,Fitness,71,34.99,bankcard,8/3/2024,Czech Republic,False
+3W39JN0DH20,20640,SQ6228,Food - Meat,28,8.49,instapayment,11/16/2024,Thailand,False
+3UU0U08JX81,37031,AA5549,Outdoor,44,349.99,jcb,6/16/2024,Philippines,True
+3G31RC8HJ43,72888,NH7554,Books,24,29.99,visa-electron,9/23/2024,Indonesia,False
+4MY6F10EA03,25281,LH2485,Food - Snacks,38,4.59,mastercard,6/25/2024,Indonesia,True
+5Y63J37EH34,95471,ET7584,Outdoor,81,29.99,china-unionpay,2/2/2024,Philippines,True
+4J09GX3TE48,96863,AC4673,Home,49,34.99,diners-club-enroute,4/20/2024,Brazil,False
+7GT5YK7YU61,64554,LH4905,Kitchen,87,59.99,visa-electron,5/5/2024,Poland,False
+9P61QT6VY03,78882,IB8156,Food - Grains,29,2.99,jcb,3/5/2024,Madagascar,False
+1PF4QN0XX37,33534,AZ7903,Food - Meat Alternatives,89,2.49,americanexpress,11/1/2024,Brazil,False
+8QQ4V91NA85,21811,SQ5245,Food - Canned Goods,76,3.49,diners-club-carte-blanche,5/30/2024,Russia,False
+9RD9HH3YX45,44642,SA1644,Food - Meat,32,7.49,jcb,3/7/2024,Turkmenistan,True
+7XE0RR4YD24,51145,LH6336,Outdoor,53,49.99,jcb,2/8/2024,Ukraine,True
+2MH2PF7FU78,98839,KE1138,Food - Snacks,38,3.49,jcb,12/25/2024,Indonesia,True
+5H61VW6VE89,82227,BA8723,Accessories,99,29.99,jcb,11/1/2024,Russia,False
+1Y32RH6DK11,39099,EK5296,Kitchen,41,19.99,instapayment,5/3/2024,Indonesia,True
+9VH6UP1QM71,24025,NH4329,Food - Snacks,50,3.49,jcb,8/17/2024,China,True
+4XG9M56YW51,40712,UA3264,Outdoor,89,79.99,diners-club-international,7/14/2024,Colombia,True
+4AX4JU6NM46,28899,KL9281,Food - Condiments,51,3.49,jcb,12/21/2024,China,False
+4K32Y26WX19,11248,SA2079,Home,52,12.99,jcb,11/12/2024,Senegal,True
+1RN0ED1GM75,81692,NZ9485,Food - Frozen Foods,64,5.49,maestro,10/3/2024,Indonesia,True
+2GF1E47HJ30,82022,LH2743,Kitchen,50,49.99,diners-club-carte-blanche,1/1/2024,Andorra,True
+5RF3RN9AN56,97119,LH6645,Food - Condiments,50,3.49,americanexpress,2/27/2024,China,True
+1YF9CG6HQ97,4214,IB6696,Accessories,14,9.99,jcb,1/8/2024,Russia,True
+1TD1P24UC39,44290,DL7850,Electronics,11,299.99,maestro,6/20/2024,China,False
+3MD2R43JF75,68576,AA5224,Outdoor,77,29.99,diners-club-international,1/2/2024,United States,False
+7AY4HH2KY42,1365,IB5963,Food - Produce,9,1.49,jcb,9/13/2024,China,False
+7T81RQ9HU92,86469,AM1632,Food - Bakery,41,4.49,maestro,12/12/2024,China,False
+6FG5FD0XN34,17460,WN7861,Food - Bakery,32,3.79,jcb,10/4/2024,Thailand,True
+9EQ5EC0ND04,48483,SK1604,Food - Snacks,52,4.99,jcb,2/11/2024,Paraguay,False
+4CM8V40ME27,56795,NH1801,Electronics,99,39.99,diners-club-carte-blanche,7/2/2024,Serbia,True
+8DT1H96EH78,74802,AM9824,Kitchen,44,39.99,diners-club-us-ca,11/8/2024,Brazil,True
+9H95YU9MJ48,53217,NZ6009,Toys,63,22.99,jcb,5/11/2024,Tanzania,False
+6W56HR7FT93,55579,KE5512,Food - Spices,4,2.49,maestro,3/17/2024,Norway,True
+7FK4A10YG09,78001,NZ6109,Home,17,29.99,americanexpress,4/29/2024,Philippines,True
+7K66HC5JK53,11385,SA5199,Food - Condiments,44,3.99,laser,11/17/2024,Sweden,True
+3R50D10AV05,9518,NH8979,Food - Baking,87,0.99,jcb,9/27/2024,Czech Republic,False
+6E48PU3AJ47,42047,DL1765,Pets,93,99.99,jcb,11/6/2024,China,False
+1YH5AH1JX45,52676,QF3102,Food - Canned Goods,100,5.79,jcb,6/23/2024,Poland,False
+6TE4JT1UJ57,9641,ET4086,Food - Dairy,87,3.99,solo,4/26/2024,Yemen,True
+8P98MF7VM97,25747,SK1381,Clothing - Footwear,44,24.99,china-unionpay,3/23/2024,Japan,True
+7VN4X88QY33,7571,AC9289,Home,88,24.99,jcb,11/22/2024,Ukraine,True
+3TX3JH2KY28,65355,DL9217,Home,23,49.99,visa-electron,3/24/2024,Singapore,False
+6K39R25WH00,41135,BA2574,Food - Breakfast,14,4.99,jcb,4/24/2024,China,False
+4V42YJ1FR38,90341,EK7131,Photography,43,19.99,mastercard,7/5/2024,Philippines,True
+5P24D42CJ63,58954,CX9713,Outdoor,46,22.99,diners-club-carte-blanche,3/17/2024,Zambia,True
+4H59WV2PD15,47453,KL1984,Food - Canned Goods,10,1.49,visa,8/23/2024,Thailand,False
+7YA5MM5JR18,82449,NH4854,Fitness,92,24.99,jcb,8/7/2024,Indonesia,True
+2KG0YE9WH05,76294,SQ7691,Food - Baking Goods,42,1.89,jcb,6/12/2024,China,True
+5G70VY9XY49,79704,AI6503,Clothing - Outerwear,77,49.99,jcb,2/9/2024,France,False
+4N14JP6KD47,26310,WN2195,Food - Produce,15,2.79,jcb,5/22/2024,Panama,True
+8HQ4WG8CC66,71191,TG7268,Art Supplies,23,29.99,jcb,12/5/2024,Chad,True
+9EC7A23QF30,84383,KE9016,Food - Canned Goods,60,2.49,maestro,10/15/2024,Peru,False
+5K79QQ4UG22,930,ET8238,Food,33,19.99,jcb,7/21/2024,Japan,False
+7T74RW8YG22,48309,IB3593,Food - Prepared Meals,99,7.49,maestro,11/13/2024,Russia,True
+8RP9X16GP87,95917,KE8563,Food - Produce,13,0.79,jcb,3/23/2024,Ukraine,True
+7WJ2TD8JU89,68302,QF1731,Food - Snacks,5,1.99,mastercard,8/26/2024,Colombia,True
+1MY5QX2MT28,60193,LA6416,Kitchen,71,34.99,mastercard,7/20/2024,Philippines,True
+6AN1D26EX70,57588,KE8696,Food - Snacks,69,3.99,jcb,2/6/2024,China,True
+2N29XJ5XU86,20919,CX3692,Health,64,39.99,jcb,4/28/2024,Venezuela,True
+8RQ9NR0DE93,85738,SK4212,Accessories,51,39.99,jcb,6/15/2024,Brazil,True
+2KP5QN9XE44,72825,SA8070,Kitchen,2,79.99,laser,3/20/2024,China,False
+3N12T51CU90,33011,ET7435,Fitness,80,14.99,diners-club-enroute,4/19/2024,Argentina,False
+8TA7YR7RX52,38578,EK2648,Kitchen,8,59.99,jcb,12/19/2024,China,False
+9HN2MD1CW53,2595,SA5940,Electronics,21,12.99,diners-club-carte-blanche,4/26/2024,Egypt,True
+7DN1V42DR76,89745,IB4790,Toys,1,34.99,maestro,5/29/2024,Canada,True
+6HD9AT8JU55,99437,AF1722,Food - Frozen Foods,78,4.99,mastercard,4/21/2024,Bosnia and Herzegovina,True
+1T11GD9JM38,59895,AA6867,Food - Frozen Foods,88,4.99,americanexpress,7/2/2024,Peru,True
+9PG0XD4VJ83,94785,AV9918,Garden,9,39.99,switch,7/8/2024,Nigeria,True
+6N55HD8CN91,67237,AM2718,Clothing - Outerwear,61,89.99,instapayment,4/11/2024,Tanzania,True
+7AU2TM5VV87,82788,AI9907,Kitchen,65,14.99,jcb,2/6/2024,Nigeria,True
+1QG5CD2DQ75,667,LA5082,Home,84,19.99,maestro,6/15/2024,Honduras,True
+7Q18WR8VG26,91378,LA1124,Food - Snacks,13,2.79,switch,9/12/2024,Poland,True
+3M05EG6VA58,81051,SK8258,Toys,75,29.99,jcb,4/1/2024,Sweden,False
+5YW2GP1WQ24,69563,SA8526,Smart Home,60,19.99,diners-club-carte-blanche,2/28/2024,China,True
+9KD9YE8XQ82,29002,UA5154,Food - Beverages,93,5.29,jcb,9/8/2024,China,False
+7Q65CE5UG24,43328,AM4717,Home,85,14.99,china-unionpay,9/29/2024,Philippines,False
+5T32UW2PN30,44161,SK4059,Food - Produce,97,2.99,jcb,7/4/2024,Indonesia,True
+3YQ3F04CJ47,33992,ET8753,Clothing - Bottoms,100,49.99,mastercard,1/15/2024,Portugal,True
+1DQ8U10WU50,45922,KE5983,Health,93,29.99,jcb,12/5/2024,China,False
+8TK7C29KC17,872,DL4655,Food - Bakery,77,3.29,visa,11/21/2024,Tunisia,False
+9GD7C04VJ06,21292,UA5373,Food - Canned Goods,42,2.49,jcb,1/14/2024,Argentina,True
+2HF5HT3DG64,2036,SQ3948,Food - Beverages,86,7.99,jcb,2/10/2024,Russia,True
+7MQ5MT6HE77,95585,KL3781,Food - Dairy Alternatives,63,4.99,jcb,7/21/2024,Pakistan,False
+4XX6E07EJ43,55259,QR8074,Food - Condiments,96,2.79,jcb,4/8/2024,Bulgaria,True
+8YP2JP2KG14,43297,EK6878,Food - Frozen Foods,99,1.89,switch,3/9/2024,Armenia,True
+1ND1JP9EW56,33884,AF7165,Fitness,11,39.99,jcb,10/5/2024,China,False
+7GV1U94EK52,1510,LH3906,Outdoor,22,89.99,jcb,8/23/2024,Brazil,False
+2RH0GR5NJ57,85639,AC7028,Food - Canned Goods,95,3.49,jcb,11/5/2024,Poland,True
+6PJ9F93DN92,1191,DL3161,Food - Vegetables,44,3.99,maestro,2/27/2024,Brazil,False
+4Q05RR4KE82,35276,AA2173,Kitchen,20,19.99,americanexpress,1/28/2024,China,False
+8G20V18DJ80,19997,KE6371,Kitchen,5,89.99,diners-club-enroute,12/29/2024,North Korea,False
+3EW0T40YP84,33272,AM5630,Pets,39,14.99,visa-electron,1/23/2024,France,False
+5QR4PM7EX03,61160,NZ4282,Clothing - Tops,57,59.99,jcb,9/3/2024,Slovenia,True
+9AA2TM6PE63,91437,NH7897,Food - Marinades,51,3.79,jcb,3/21/2024,United States,False
+9FE9TM5VJ69,64117,NZ1813,Beauty,75,34.99,china-unionpay,8/22/2024,China,False
+9RU5JV2DH68,67049,DL9212,Food - Snacks,35,2.99,americanexpress,4/25/2024,Tunisia,True
+9YA2XC8VM13,49796,BA9701,Food - Frozen,79,6.49,jcb,6/12/2024,Philippines,False
+2EP2T72QX74,37913,KE9917,Food - Grocery,54,3.99,diners-club-carte-blanche,12/24/2024,Brazil,False
+3NK5XU2AE49,96449,IB4805,Food - Baking & Cooking,5,2.99,switch,5/4/2024,Russia,True
+6DN3MQ3PG88,17820,QR3399,Home,80,29.99,americanexpress,9/21/2024,China,True
+1F01GQ4PH90,5751,QR1765,Gaming,99,19.99,jcb,9/7/2024,Croatia,False
+6VK3UD6GA89,21470,NH3774,Outdoor,43,49.99,visa-electron,3/25/2024,China,True
+9D78RR8FM53,53842,ET7859,Food - Produce,59,1.49,jcb,6/12/2024,France,False
+3D02UF3XQ70,80302,NH3534,Food - Canned Goods,10,4.5,jcb,11/21/2024,China,True
+3A87K18RP25,90967,AC3027,Fitness,66,19.99,mastercard,12/22/2024,Philippines,False
+6KQ9A20QF18,36835,SK5076,Office,51,19.99,jcb,4/24/2024,Indonesia,False
+3N36HY4FF45,17955,QF3279,Food - Bakery,54,3.99,jcb,6/16/2024,Norway,False
+7KP4NN5KY10,82407,AF4156,Photography,69,89.99,jcb,6/27/2024,Brazil,True
+1XC8KG1PP06,34984,KL2216,Kitchen,21,11.99,mastercard,5/3/2024,Myanmar,True
+9W74UF0VW06,54259,KL8508,Food - Grains,26,2.99,jcb,6/7/2024,Malaysia,False
+6CN2XJ0PH06,4162,AA8700,Beauty,40,39.99,jcb,7/30/2024,Honduras,False
+8Q55FE9EV31,16917,SA2350,Automotive,6,44.99,diners-club-carte-blanche,3/13/2024,Bhutan,False
+2A55VG3PM22,44476,ET2018,Food - Condiments,4,3.99,jcb,3/17/2024,Palestinian Territory,False
+5CN6YG1DA31,94126,ET7435,Food - Seafood,81,14.99,laser,10/16/2024,Finland,True
+2TA7J00VM53,13834,AV9115,Food - Desserts,5,4.99,jcb,12/9/2024,Czech Republic,False
+8DX7XJ9VD08,87063,KE6873,Food - Frozen Desserts,5,5.99,laser,2/6/2024,Mozambique,True
+4P52TN2GQ29,27545,SA7873,Pets,82,199.99,jcb,11/12/2024,Indonesia,False
+7YE4ET1JK21,95328,ET3337,Clothing - Bottoms,66,35.99,jcb,6/18/2024,Bolivia,True
+6VG0GK6UC02,95058,LA2012,Food - Marinades,5,3.29,bankcard,6/8/2024,Brazil,False
+5AM8P50RU14,25103,BA1635,Toys,87,10.99,americanexpress,3/31/2024,Indonesia,False
+7JW2TT5AW88,33518,AA2277,Kitchen,54,29.99,laser,10/27/2024,Poland,False
+1WC8YN5GQ58,99461,NH1069,Clothing - Jumpsuits,62,54.99,diners-club-carte-blanche,4/25/2024,Nigeria,True
+3DT0C21XJ65,59783,KE2522,Food - Dairy,30,4.99,jcb,12/26/2024,Yemen,False
+5P45VW5XC21,28002,AV9484,Travel,21,12.99,jcb,1/24/2024,Indonesia,True
+2KD5GW2XF98,28962,NZ2706,Kitchen,86,34.99,jcb,4/28/2024,Philippines,True
+2W52PR9MN34,82714,KE2298,Clothing - Sweaters,80,39.99,jcb,8/25/2024,Russia,False
+5M17QC2QW77,52865,WN1647,Accessories,20,12.99,bankcard,2/17/2024,Peru,False
+6JD6VC0PT54,35609,BA9707,Pets,21,39.99,americanexpress,1/31/2024,China,False
+5N00A30EV99,44872,DL7317,Food - Prepared Foods,61,8.99,jcb,5/6/2024,Sweden,False
+5K54GM8ET72,64831,IB8666,Food - Health/Protein,96,24.99,americanexpress,2/17/2024,Azerbaijan,True
+3HT4K04EA06,14777,NH7298,Food - Vegetables,53,2.29,diners-club-us-ca,4/21/2024,China,False
+3U45P34VT02,61574,AA3897,Food - Bakery,19,2.49,jcb,11/16/2024,Canada,False
+5VX3F07MT24,57824,ET4570,Food - Supplements,45,11.99,diners-club-carte-blanche,4/4/2024,Peru,False
+2P58FQ6UK74,25342,AF7593,Food - Meats,87,4.99,instapayment,10/19/2024,El Salvador,True
+6K75YV4DV82,79893,ET1450,Home,21,12.99,diners-club-enroute,11/5/2024,Russia,True
+2KT1HQ1CQ03,41007,UA1144,Home,20,19.99,jcb,7/25/2024,Ukraine,True
+7HG3U85VQ74,43131,LA4328,Pets,87,199.99,jcb,4/24/2024,Honduras,True
+9EH3EM9DG74,36025,QF5189,Food - Vegetables,6,3.79,instapayment,11/26/2024,Tanzania,False
+7TR2FP3RM03,77972,ET4685,Toys,47,24.99,jcb,4/20/2024,China,False
+6E17E76XN14,63513,WN1641,Pets,45,14.99,jcb,2/13/2024,Slovenia,True
+1V82UE7TC84,2610,LH9879,Automotive,4,19.99,switch,6/8/2024,Brazil,True
+8Q54QH1NV92,87260,NZ1172,Toys,43,29.99,diners-club-enroute,10/5/2024,Ethiopia,True
+2EH4KD1VR75,80396,AF2120,Art Supplies,44,99.99,switch,7/23/2024,France,True
+4YM6RR3NA11,93099,AC3652,Automotive,3,14.99,diners-club-us-ca,2/7/2024,Cyprus,False
+6AW3KP7TF27,49079,AZ1132,Garden,24,22.99,jcb,3/11/2024,Peru,True
+3UR3K75YG46,97157,WN1985,Food - Frozen,81,4.99,diners-club-us-ca,6/5/2024,Croatia,False
+1NT2C46FW20,1744,LA7114,Food - Condiments,83,3.79,americanexpress,1/16/2024,Mexico,False
+3QX4RE1JG71,97472,QF5776,Food - Cereal,12,4.49,solo,10/28/2024,Madagascar,False
+4VX4EC9NQ01,47585,AC1394,Clothing - Footwear,72,64.99,mastercard,11/15/2024,Mozambique,True
+2XA2UC1TN18,44240,AV9245,Kitchen,51,34.99,jcb,12/26/2024,Macedonia,False
+7JP7G78NR35,25732,QR9690,Food - Snacks,7,5.99,diners-club-enroute,10/17/2024,Czech Republic,True
+4FR6JD3VK77,65850,SK7157,Outdoor,54,39.99,china-unionpay,4/20/2024,Finland,True
+8NY8HK3KU08,83391,CX9201,Food - Canned Goods,68,2.99,maestro,9/29/2024,Poland,False
+7QE8CP4UA27,68116,BA7540,Food - Condiments,60,4.29,diners-club-enroute,11/5/2024,Brazil,True
+7JN6JP5DD79,20031,NZ9286,Pets,27,12.99,americanexpress,6/4/2024,China,False
+6Y87Y03MV69,37777,KL1948,Food - Canned Goods,83,1.29,jcb,12/12/2024,Indonesia,True
+2M10Q37FN83,18966,IB5135,Automotive,7,44.99,visa-electron,10/5/2024,Indonesia,False
+6GA8UA3TG78,93115,LA9061,Food - Canned Goods,64,1.79,mastercard,8/15/2024,China,False
+7Q15F47CF91,76415,QF1365,Food - Produce,39,2.99,visa-electron,4/22/2024,Ukraine,False
+7JE8UM5CD74,95904,ET6407,Food - Frozen Foods,80,4.49,jcb,4/20/2024,China,False
+4NT3W95PQ32,65943,IB8898,Footwear,24,79.99,jcb,8/25/2024,Argentina,False
+6E99QF5PX42,66957,ET3908,Clothing,6,64.99,jcb,10/13/2024,China,True
+5XN7VG6DU58,54975,UA5582,Home,75,39.99,mastercard,3/19/2024,Indonesia,False
+7DM2GE6GK34,69366,AC3652,Clothing - Outerwear,70,79.99,jcb,11/22/2024,Sweden,False
+5V17UG6YQ79,3886,SQ7791,Food - Condiments,46,2.49,laser,2/23/2024,Philippines,False
+4XQ1AP3JE72,69732,NZ8550,Food - Snacks,1,4.99,jcb,7/29/2024,Peru,False
+3FE8Y37TN02,71974,TG7072,Food - Baking,5,5.59,jcb,5/17/2024,Honduras,False
+4N57FA1EC33,95013,NH3133,Furniture,94,149.99,instapayment,12/22/2024,China,True
+5DA7WU4MG25,84376,SK3209,Food - Oils & Vinegars,23,8.99,jcb,3/26/2024,Syria,True
+3K91VD6NV45,65225,AI1195,Food - Vegetable,26,1.99,bankcard,11/15/2024,Tajikistan,False
+1X71F40TG34,31720,IB7632,Kitchen,55,39.99,jcb,2/11/2024,Philippines,False
+6H82QU4MY35,47055,QR6930,Fitness,92,15.99,americanexpress,9/22/2024,France,True
+1T57YF7UQ93,14353,SK4478,Toys,18,19.99,switch,8/27/2024,Poland,False
+7E17PU1DD67,68657,AA6821,Kitchen,63,19.99,americanexpress,5/24/2024,Indonesia,True
+1A38CC9PG31,3395,DL9121,Home,44,25.99,jcb,9/22/2024,Russia,False
+4HA2WF9HD86,81440,AM2718,Outdoor,40,89.99,visa,2/9/2024,China,True
+1DU8GK2KF23,59079,NZ4073,Food - Dried Fruits,74,3.79,jcb,10/30/2024,Indonesia,True
+1JR7TU3NX83,41808,NZ3376,Food - Grains,71,2.99,jcb,5/22/2024,Norway,False
+9EX2PQ9YP39,26326,QR6944,Toys,19,19.99,jcb,12/6/2024,Czech Republic,True
+4KE2JC9WJ63,88663,QF2813,Food - Dairy,52,1.29,jcb,12/20/2024,Syria,True
+2Q59H37AJ38,33617,SQ8523,Clothing - Activewear,35,34.99,bankcard,1/8/2024,Philippines,False
+8NP7P79RF05,82642,LA1090,Kitchen,23,34.99,visa-electron,1/13/2024,China,False
+4T58RE7QU53,25651,WN4746,Clothing - Dresses,89,39.99,mastercard,5/2/2024,Greece,False
+1RM9KC3JP56,47927,BA6203,Kitchen,73,89.99,diners-club-enroute,1/8/2024,Russia,True
+9FE0XE0TT72,51013,AA3153,Garden,34,39.99,visa,6/13/2024,China,False
+2K96U81DV03,70153,ET6738,Toys,17,29.99,switch,7/8/2024,Sweden,False
+9T79NC5FK20,37469,TG7191,Food - Grocery,62,4.99,maestro,8/18/2024,Russia,True
+7QD6WN9GJ04,19368,KL6982,Food - Grains,48,2.99,visa-electron,11/30/2024,China,False
+3D06G95JC79,25962,ET9897,Health,72,59.99,bankcard,5/5/2024,Kazakhstan,True
+5CA5Y36RA81,36961,AF9091,Crafts,33,34.99,maestro,5/15/2024,Ethiopia,True
+4GH5NG8UU98,43626,SA2079,Fitness,0,24.99,switch,10/14/2024,Sweden,True
+3C12M60AV56,42476,IB5832,Home,22,17.99,switch,6/27/2024,China,True
+3TE7NK7KJ05,35686,IB7981,Food - Cooking Oil,5,6.99,china-unionpay,6/11/2024,Portugal,False
+2Q11KF7AV17,12121,KL8773,Books,74,12.99,maestro,1/26/2024,China,False
+4JX0ER8HR62,65565,IB6717,Home,65,49.99,china-unionpay,8/5/2024,United States,False
+8Y64FH2KX07,15868,TG6898,Toys,16,19.99,jcb,1/29/2024,Philippines,False
+4W93MR0PT85,65129,AF2048,Food - Pasta,5,4.99,americanexpress,12/10/2024,Nigeria,False
+6N58NT8UF27,61641,AI7743,Food - Snacks,96,4.99,jcb,3/13/2024,Mexico,False
+7RY0W97XR42,70616,LA1908,Food - Baking & Cooking,21,4.99,jcb,8/30/2024,Mayotte,True
+8G42C80HY25,76594,CX8226,Food - Freezer,56,7.99,jcb,7/12/2024,Indonesia,True
+3TW8TG9NV17,74766,SA9852,Food - Snacks,86,3.49,diners-club-enroute,1/24/2024,Indonesia,True
+8GW0QP4KJ34,73837,CX9201,Kitchen,47,34.99,jcb,6/15/2024,Portugal,True
+8G00HD7XJ68,93367,AC3468,Garden,96,24.99,switch,4/23/2024,China,False
+7QY6N26RQ05,46719,CX7264,Food - Bakery,12,3.49,jcb,9/24/2024,China,False
+9Y35MD8MJ21,3935,SA1576,Travel,3,12.99,diners-club-enroute,1/25/2024,Indonesia,False
+6GD8H65WC74,25234,EK8700,Food - Canned Goods,88,3.99,diners-club-carte-blanche,4/10/2024,Argentina,True
+7GR1YY8NU81,26097,SK2434,Food - Vegetables,63,4.49,jcb,8/1/2024,China,False
+8G51DJ8DE64,29120,AV2245,Food - Meat,30,5.99,switch,9/15/2024,China,False
+7R44X20XD97,60678,KL5034,Gaming,27,69.99,jcb,7/13/2024,China,False
+1NT4Y55DE68,58880,UA6219,Food - Vegetables,83,3.79,jcb,9/24/2024,Botswana,True
+2QX4CW8AF67,85889,WN8555,Smart Home,66,19.99,jcb,8/15/2024,Libya,False
+8TW1UP1VY22,44685,AZ4478,Pets,23,199.99,jcb,12/12/2024,Luxembourg,False
+6QR4TY3YG43,77170,KE3181,Food - Beverages,58,2.79,visa-electron,9/30/2024,Serbia,True
+5WY8AQ8PX98,23942,ET6215,Home,25,14.99,laser,5/21/2024,Philippines,True
+2CN5E08JD20,33218,AA4031,Fitness,17,29.99,mastercard,7/1/2024,United Kingdom,True
+9EY8A66MT56,53940,QF2751,Food - Beverages,43,3.29,jcb,3/3/2024,Malaysia,True
+2J34CW3MU74,14934,IB1986,Outdoor,96,19.99,jcb,2/7/2024,Japan,False
+4X44D21KG29,19911,CX1465,Food - Dairy,73,2.99,mastercard,11/28/2024,Philippines,False
+1DN4VW2CU66,30998,LA7114,Clothing - Footwear,19,64.99,jcb,1/9/2024,Russia,True
+8UP8KA0MV08,99536,SA7022,Food - Snacks,56,4.99,mastercard,10/24/2024,Japan,False
+5CG6VN9QU56,33147,LH4869,Food - Baking,100,1.29,mastercard,2/15/2024,China,True
+4TV1EH8QG59,21691,BA1206,Books,84,29.99,visa-electron,1/31/2024,Russia,False
+7T80Y05TJ54,57847,SK5934,Home,15,39.99,visa-electron,4/21/2024,Honduras,True
+7PU3X96JJ11,50983,SK3409,Art Supplies,65,99.99,jcb,9/24/2024,Macedonia,False
+2HK6CF0QA37,39858,QR2850,Art Supplies,1,19.99,jcb,11/19/2024,Peru,True
+2RC7EP4EY22,33217,AF2465,Food - Canned Goods,64,2.29,jcb,10/29/2024,Russia,False
+2M07VD6WJ64,59313,QF7073,Electronics,83,45.99,maestro,7/24/2024,Pakistan,False
+7U04DK5MG17,78101,SK7036,Audio,85,29.99,jcb,11/10/2024,United States,True
+9GP2P32DF23,60383,NZ1999,Photography,32,29.99,jcb,4/10/2024,Ukraine,True
+1YX4P52HK17,32803,NZ1172,Food - Snacks,80,2.99,diners-club-us-ca,7/3/2024,Indonesia,True
+3WR7JE5ED81,31962,SK7367,Music,96,199.99,diners-club-enroute,5/27/2024,Samoa,True
+3JQ4F06JF17,14702,AZ9476,Food - Baking,78,5.59,maestro,10/16/2024,United States,True
+2KT3GK7CM70,95399,AM7841,Pets,18,49.99,jcb,5/11/2024,France,True
+7QF2FK3FT49,77120,DL1182,Outdoor,19,159.99,switch,9/11/2024,China,False
+4T18NR0PW75,68467,KE1824,Clothing - Footwear,7,49.99,mastercard,10/26/2024,Indonesia,False
+6WQ9CF4JX80,24172,KE6873,Kitchen,85,89.99,jcb,4/8/2024,Portugal,False
+7V43C49WT59,19785,SK7593,Outdoor,87,24.99,americanexpress,2/17/2024,Poland,False
+1G82R80XF82,74150,TG3895,Office,60,39.99,china-unionpay,10/16/2024,United States,True
+5XX9K84MU84,56702,NH8259,Food - Baking & Cooking,70,4.99,mastercard,4/15/2024,Myanmar,True
+7UV0HG2YP95,39259,LH7990,Clothing - Footwear,14,49.99,jcb,2/27/2024,Poland,True
+7RD3FW9HD80,49661,KE2208,Clothing - Tops,67,49.99,jcb,11/18/2024,Russia,True
+4CA1R68YH46,56463,ET4024,Food - Condiments,22,3.39,jcb,7/7/2024,Sweden,False
+6FV0H34JA79,83045,EK8076,Fitness,31,12.99,switch,11/4/2024,France,False
+6HJ6CW7HR69,1398,QF8213,Food - Frozen,84,4.99,diners-club-carte-blanche,5/15/2024,Norway,True
+6FM6H25NR10,18561,SK1914,Food - Seafood,14,4.49,jcb,12/25/2024,China,True
+5M01N61TW54,62298,AC5834,Food - Bakery,77,4.99,visa,4/14/2024,France,False
+7QE1MX2UF30,62638,QR9059,Accessories,56,49.99,jcb,9/22/2024,Vietnam,False
+8KG8XV0MC50,22871,KL5034,Pets,20,14.99,laser,5/11/2024,Argentina,False
+1W23PF1FQ84,8546,SA9869,Kitchen,54,59.99,diners-club-international,2/26/2024,Serbia,True
+2GG6C06DC43,14200,AC9050,Home,54,15.99,jcb,4/16/2024,China,True
+5ED6TX9QR79,23145,EK4642,Food - Breakfast,56,2.49,switch,1/5/2024,China,False
+3W37QU8DW57,41316,SQ3804,Clothing - Tops,16,29.99,jcb,11/1/2024,China,False
+6JM8KR4XJ71,13275,KE4306,Food - Snacks,76,2.29,diners-club-carte-blanche,7/30/2024,France,False
+6NK9PU7VY78,85385,SA1906,Clothing - Activewear,62,24.99,jcb,2/15/2024,Indonesia,True
+5AG3CD5XX10,32562,SK9534,Toys,44,19.99,bankcard,8/3/2024,China,True
+1J96DX0EW49,42606,EK9724,Food - Dairy,79,2.49,jcb,3/22/2024,Taiwan,False
+3M19WV8TQ34,54885,AC6293,Electronics,44,49.99,diners-club-enroute,5/11/2024,Kosovo,False
+8AJ6J26WV83,18103,EK4497,Food - Snacks,76,3.49,jcb,8/29/2024,Indonesia,True
+3FV9WT3HK77,20078,QR3556,Food - Prepared Foods,65,5.79,jcb,6/25/2024,Colombia,False
+8GF2Q76GG25,11348,SK4013,Food - Condiments,88,3.49,switch,4/3/2024,Kazakhstan,False
+3NJ2TQ2FX29,41019,SQ6592,Home,3,59.99,jcb,1/22/2024,Brazil,False
+2E42KF3GD43,67413,AC7203,Home,2,39.99,instapayment,5/23/2024,Philippines,True
+3WQ5QA0TJ49,35324,CX1697,Health,83,49.99,americanexpress,2/6/2024,China,False
+8P39EY9TU35,27631,CX4991,Food - Snacks,94,3.99,diners-club-international,1/17/2024,Serbia,True
+9N47UX8EY21,53647,ET1504,Kitchen,60,9.99,maestro,3/25/2024,Kazakhstan,True
+7QG0NQ6RE48,31596,QR6944,Storage,27,15.99,mastercard,9/7/2024,United States,True
+7H38T17MA15,16199,NH8629,Outdoor,84,149.99,mastercard,3/23/2024,Sweden,False
+8JF0W24AE05,89852,ET8030,Food - Canned Goods,84,1.29,diners-club-carte-blanche,11/12/2024,Poland,False
+5UH0YN0PR89,44805,NZ5940,Gaming,79,39.99,diners-club-enroute,7/10/2024,Indonesia,True
+4AX0N68YK65,26986,AV9464,Outdoor,66,27.99,jcb,1/15/2024,Japan,True
+9Y52RD2GE41,6993,QR4663,Food - Fruits,76,2.29,china-unionpay,10/5/2024,China,True
+5JA4G78CR63,62250,UA6725,Automotive,4,14.99,diners-club-enroute,10/26/2024,Indonesia,False
+3PV0TJ6KU29,58068,UA4868,Kitchen,49,49.99,jcb,5/24/2024,Poland,True
+9P12NA9DF58,7871,AC2119,Food - Frozen Foods,79,7.99,china-unionpay,11/30/2024,China,True
+8GM5Q26MR10,42824,LH4869,Pets,58,12.99,diners-club-carte-blanche,8/20/2024,Albania,False
+1W73Q51YJ79,73866,AI2219,Art Supplies,32,14.99,americanexpress,8/24/2024,Kazakhstan,True
+9JA9CY4UY51,35656,WN3136,Food - Snacks,15,3.49,mastercard,10/24/2024,Turkmenistan,False
+4JK0RF6HC80,30938,AA5371,Clothing - Outerwear,53,69.99,maestro,3/22/2024,Philippines,True
+5EM9W02PE18,14020,SA5902,Home,95,19.99,mastercard,11/13/2024,United States,True
+8TN6E43MK61,58150,TG8145,Outdoor,85,49.99,jcb,11/10/2024,Indonesia,False
+6XY6JD1XT38,55752,SA2305,Food - Condiments,39,3.79,mastercard,7/26/2024,Finland,True
+3V07XC6NR34,21038,SA7437,Food - Beverages,70,1.99,mastercard,12/8/2024,Czech Republic,True
+5RU7PH6GE03,82564,AV3127,Food - Salads,31,7.49,switch,6/7/2024,Russia,True
+2YW0KD0MJ54,57458,AA9987,Home Improvement,4,199.99,jcb,8/31/2024,China,False
+8PQ3WH9PN97,63861,LA3959,Electronics,61,49.99,bankcard,1/28/2024,France,True
+9FC9AU7FK29,94106,LH4237,Office,15,5.99,switch,5/16/2024,Philippines,False
+1MD8DD6TC43,25617,EK2645,Clothing - Shoes,72,69.99,diners-club-international,10/23/2024,Brazil,False
+7PY8C95FH93,30107,AA3291,Clothing - Footwear,56,39.99,jcb,7/4/2024,China,True
+2GG5DD5AC71,72081,SQ7058,Pets,59,49.99,china-unionpay,10/15/2024,Czech Republic,False
+1Y49DV9VE05,62879,LA4985,Food - Beverages,65,3.49,diners-club-enroute,1/24/2024,Vietnam,True
+6FY4VW9PF41,1965,LA3470,Food - Baking,48,6.49,jcb,8/16/2024,Morocco,True
+8RU5TU7JG41,94787,SQ4687,Home,17,34.99,instapayment,9/19/2024,China,True
+7YU2FA0QV59,42272,TG3623,Clothing - Outerwear,10,39.99,instapayment,7/17/2024,Russia,False
+8TT6HU9FN85,58463,EK2864,Kitchen,7,34.99,jcb,5/27/2024,Japan,False
+2JV8JX6ME60,61301,QR3251,Food - Beverages,59,3.49,jcb,1/8/2024,Japan,True
+2N06JD6DF22,38874,IB4654,Travel,58,9.99,visa-electron,8/16/2024,Iran,True
+6YY2KU1MW12,91503,UA4772,Food - Breakfast Foods,12,3.99,diners-club-us-ca,8/30/2024,China,True
+2N81E14PW38,46360,SA8685,Food - Produce,52,3.49,visa-electron,5/4/2024,Kosovo,True
+7TA0RX2YR12,84258,BA1338,Kitchen,53,18.99,jcb,2/10/2024,Russia,True
+4H92YQ0YP49,10081,NH6666,Accessories,51,15.49,switch,12/24/2024,Colombia,False
+9YG1EH0MV42,54187,WN2403,Food - Breakfast,76,4.19,jcb,4/28/2024,United States,False
+2V70UV9KF70,49843,SQ2983,Art Supplies,17,24.99,china-unionpay,7/21/2024,Philippines,False
+4QT2P68TW16,5437,AC1668,Food - Condiments,50,4.99,bankcard,10/16/2024,Brazil,True
+8R09Y46WG06,13247,NZ8550,Food - Nut Butters,35,5.49,china-unionpay,10/20/2024,Vietnam,False
+3W20A80FG58,56581,KL3236,Food - Bakery,53,2.49,jcb,9/30/2024,Indonesia,False
+1R68T92XR12,721,SA3924,Food - Frozen Food,32,10.99,china-unionpay,10/9/2024,Russia,False
+3AR6A90VN98,52662,WN2104,Home,62,34.99,diners-club-us-ca,11/3/2024,Mexico,False
+9FF1JH3XR09,31822,SQ3887,Food - Dairy,85,2.99,switch,10/16/2024,Peru,True
+3TT9MC1RM42,4728,UA4382,Home,37,12.99,visa-electron,1/26/2024,Philippines,True
+6KR5AH3UX06,93885,LA7268,Food - Snacks,62,3.49,bankcard,1/6/2024,Jamaica,False
+5JQ8GU5GP89,30523,QF8612,Art Supplies,76,19.99,switch,8/2/2024,Philippines,False
+5RG4E57NF24,51918,DL3070,Home,43,59.99,americanexpress,8/22/2024,Indonesia,False
+8HE9C11RM91,34807,AF5181,Food - Beverages,25,5.29,americanexpress,8/28/2024,France,True
+7TE8D02RD59,3815,AF8660,Food - Sides,86,2.99,china-unionpay,9/2/2024,Nigeria,False
+5NH6YQ7NU36,81726,KE6531,Food - Canned Goods,8,3.49,diners-club-carte-blanche,8/8/2024,China,True
+8XR2JP4FN47,21422,SK6983,Kitchen,20,24.99,diners-club-enroute,3/29/2024,Brazil,True
+3KU3J50QY67,30142,AI8084,Fitness,45,15.99,jcb,2/6/2024,China,False
+3AE7UC8XK26,73213,KE9265,Food - Dried Fruits,64,3.19,jcb,10/8/2024,Portugal,False
+9U14N28RH70,3649,UA2821,Food - Produce,90,2.99,mastercard,1/4/2024,Bangladesh,False
+4M84YA6MD62,43312,CX7119,Home,27,29.99,jcb,4/27/2024,Isle of Man,True
+8AD4RP9WA64,13713,IB4338,Kitchen,98,14.99,jcb,8/16/2024,Serbia,True
+7P74RK5GQ23,28943,ET7901,Food - Dairy,21,4.29,jcb,12/14/2024,Japan,True
+5FV1TH1WF90,2914,AV9155,Home,82,39.99,visa-electron,2/1/2024,Yemen,True
+5H16YV6FA78,93766,AC7134,Electronics,87,39.99,americanexpress,1/29/2024,Poland,True
+5N03WH8EY08,17764,WN9133,Food - Baked Goods,87,5.49,diners-club-carte-blanche,12/7/2024,Indonesia,False
+7P22DT3TA32,67480,BA5740,Food - Canned Goods,58,3.49,mastercard,7/16/2024,Indonesia,False
+6KT5DD8CG11,17165,AC4673,Office,10,29.99,jcb,5/2/2024,South Africa,True
+7E06EM8TH71,7534,QF6081,Audio,1,29.99,jcb,1/22/2024,Indonesia,True
+6MK3Y76AC68,96029,ET7435,Kitchen,95,39.99,jcb,10/5/2024,Philippines,True
+9D32F25JW20,39295,UA4214,Food - Sauces,4,4.99,diners-club-carte-blanche,7/14/2024,Brazil,True
+7TD6W21YR60,4198,NZ3854,Clothing - Dresses,22,69.99,jcb,5/19/2024,France,True
+6XR1CT3WQ45,11150,SA4414,Kitchen,89,49.99,mastercard,2/5/2024,Madagascar,False
+1A10E10ED06,81757,AA8312,Health,76,59.99,jcb,2/27/2024,Slovenia,False
+7AQ1QA5HR21,63164,AV8325,Food - Grains,94,1.99,switch,7/19/2024,France,True
+3P24UP4PY80,50658,AF7177,Food - Salads,77,5.49,china-unionpay,3/29/2024,China,False
+7T69CR7QJ26,41744,NZ8860,Accessories,89,10.99,mastercard,7/4/2024,Democratic Republic of the Congo,False
+4DR9JV9CT18,34711,AA6888,Kitchen,23,24.99,visa,5/3/2024,Sweden,False
+6WP0VA8WJ59,50651,AF6961,Toys,11,34.99,americanexpress,6/13/2024,Montenegro,True
+6FP8NM2EQ24,46437,LA8565,Outdoor,25,49.99,americanexpress,12/14/2024,China,False
+2MF9EW4FV69,2340,BA7518,Health,52,29.99,jcb,6/3/2024,Nigeria,False
+3WY5RD9QF73,71717,SK4238,Food - Frozen Meals,12,14.99,jcb,4/27/2024,China,False
+2C69EC6EY45,60116,LH2110,Food - Bakery,16,2.49,visa-electron,11/10/2024,Greece,False
+7UJ1M25RG24,85967,AZ1726,Wearable Tech,23,249.99,china-unionpay,5/12/2024,China,True
+5H72Y98PC58,56276,KE5026,Food - Nuts,29,4.29,diners-club-carte-blanche,11/6/2024,France,True
+5GK6QG8KN47,667,DL9163,Food - Salads,74,5.49,visa-electron,6/30/2024,Indonesia,True
+6M68UQ5HT07,60989,AV8325,Food - Snacks,55,3.99,mastercard,4/21/2024,Philippines,True
+4V24NK1YV15,11087,TG3007,Home,82,29.99,bankcard,10/26/2024,Peru,True
+3UG0QF6AE30,31867,DL7036,Clothing - Bottoms,50,44.99,bankcard,2/10/2024,China,False
+1GA6K21GJ54,86885,NH1605,Food - Beverages,24,1.99,jcb,11/30/2024,Indonesia,True
+4QX6FF5GQ70,26015,SQ9022,Outdoor,29,89.99,jcb,1/3/2024,China,True
+4FJ0FX9GY88,80308,AA1719,Home,63,14.99,diners-club-enroute,2/12/2024,Bangladesh,False
+6DW0AX5UF57,6755,NZ2679,Kitchen,78,19.99,americanexpress,5/21/2024,Portugal,True
+4TD2QD2ER51,3945,AC6753,Books,72,12.99,mastercard,8/11/2024,China,True
+5VD1QQ7UW52,13503,SQ5580,Kitchen,95,24.99,jcb,2/5/2024,China,True
+7YG7WE4QX86,98989,LH5015,Home,24,129.99,jcb,11/21/2024,China,False
+3UC6U77NR31,66898,AM1632,Food - Snacks,80,2.89,jcb,8/4/2024,Russia,True
+5G48N43KP85,98776,AZ5907,Kitchen,70,149.99,jcb,11/5/2024,China,True
+5QD7NP7HU77,14597,AM8271,Food - Produce,39,2.99,mastercard,3/5/2024,Chad,False
+8W86CF9GX59,45023,NH4329,Food - Snacks,89,2.89,jcb,9/8/2024,China,True
+6FE2RE0KP77,44999,TG4154,Clothing - Dresses,89,39.99,jcb,1/28/2024,Croatia,True
+6U96AP4KT12,87395,NZ9950,Accessories,80,29.99,maestro,4/30/2024,China,False
+4A12FW6MY50,38492,NH5344,Clothing - Accessories,22,29.99,jcb,12/29/2024,China,False
+2NP9GU8JE94,36347,AM4015,Food - Condiments,96,2.49,jcb,7/24/2024,China,False
+5MA3H46MX77,71033,ET9838,Electronics,40,99.99,mastercard,1/15/2024,China,True
+3CA5C96VK29,26943,DL2527,Fitness,48,14.99,jcb,3/20/2024,Portugal,False
+4QW9GV4JQ15,59702,AC5234,Outdoor,30,149.99,jcb,1/5/2024,Canada,False
+8W16N37FE78,67938,AV9841,Pets,58,99.99,jcb,11/21/2024,China,True
+4PH0NJ7CC60,49448,TG1200,Home,44,24.99,laser,6/24/2024,Thailand,False
+5FW5GC7YA64,85763,QR2822,Garden,15,22.99,jcb,12/8/2024,China,False
+6D79WK9YT98,61982,UA1609,Kitchen,85,179.99,jcb,9/14/2024,China,False
+1CU9D96KC38,75502,IB9305,Kitchen,27,59.99,china-unionpay,5/23/2024,China,False
+2T66EY7CG00,28567,SA4381,Food - Frozen Foods,88,4.99,visa-electron,8/28/2024,China,False
+2NA9G21YU62,78086,NH6836,Food - Condiments,54,3.49,jcb,4/4/2024,Malaysia,False
+6DK2N52JU37,12530,DL2731,Food - Baking,37,1.79,laser,8/13/2024,Sweden,False
+6XG5EC1UJ57,97110,KL8666,Food - Snacks,24,3.99,jcb,5/19/2024,United States,True
+8Y72RP8XE79,77549,AA2984,Food - Meat,96,9.49,jcb,7/24/2024,China,True
+9Q92VD9QX16,59154,QF3681,Wearable Tech,35,199.99,maestro,5/5/2024,Russia,True
+9JU4C44NX21,42951,NH8158,Food - Desserts,59,2.99,solo,11/26/2024,Portugal,False
+5GP7CF5WT33,49419,CX8869,Food - Prepared Meals,58,5.49,china-unionpay,12/27/2024,China,True
+7RN4F07QG65,85905,SK2196,Travel,1,24.99,visa-electron,5/29/2024,United States,False
+7JK9PN4XT14,3774,EK7708,Food - Bakery,91,4.29,china-unionpay,8/17/2024,United States,True
+5TE3YK9AQ08,79646,QR5057,Food - Snacks,94,4.49,visa-electron,1/8/2024,Russia,True
+6KA7G77WX39,60216,AC8541,Health,37,19.99,visa,7/20/2024,Philippines,True
+6QU5U35RV09,14544,ET8030,Food - Canned Goods,24,5.79,visa-electron,11/13/2024,China,False
+8A32UD4XD26,35103,AZ9148,Pets,3,14.99,switch,1/1/2024,Russia,True
+1RE1VK7FV27,84168,AC4052,Food - Condiments,51,3.99,jcb,4/15/2024,Malaysia,False
+4TU4GY4HT48,50389,ET9491,Food - Condiments,50,2.99,instapayment,5/14/2024,Honduras,True
+2QU1EF2JF75,76799,IB8675,Food - Baking,72,6.99,jcb,8/31/2024,United States,False
+8YW1UQ3JK37,92801,AC1520,Food - Snacks,35,2.49,china-unionpay,2/24/2024,Bolivia,True
+9JE9DG7KG05,41642,QR6930,Food - Snacks,91,4.99,jcb,9/14/2024,China,False
+8NH2GG1EA53,75539,AM7841,Smart Home,59,89.99,americanexpress,6/20/2024,Argentina,False
+1A76G94CC59,31784,AI2223,Food - Household,64,8.99,mastercard,2/26/2024,Peru,True
+7DW3DV4EA11,66444,BA6981,Accessories,48,9.99,mastercard,2/15/2024,Sweden,True
+9F22HX1TW66,86450,KE4109,Food - Soups,78,2.99,maestro,12/20/2024,Indonesia,False
+8U03F11WY01,51993,BA8890,Toys,13,19.99,solo,7/8/2024,Poland,False
+5HW4QJ9GJ43,24385,NH2788,Kitchen,48,19.99,americanexpress,5/26/2024,Jamaica,False
+4VY9Y58TG18,29483,AI5439,Garden,72,59.99,bankcard,5/24/2024,Madagascar,False
+3Y73RA1CH76,47420,LH3543,Home,42,34.99,diners-club-enroute,11/28/2024,China,True
+3HQ6QT9GA87,73327,AI5205,Outdoor,85,49.99,bankcard,8/18/2024,Guatemala,False
+6MT6D81RT73,4537,UA9363,Books,8,39.99,jcb,1/6/2024,China,True
+4J47KU4EQ80,37780,LA1185,Kitchen,44,29.99,jcb,8/17/2024,China,False
+8C56F92JU06,37625,TG6824,Food - Snacks,67,3.99,jcb,12/21/2024,Cameroon,False
+2HF6J83DW92,20517,KE6519,Food - Breakfast,74,2.49,maestro,2/24/2024,Indonesia,True
+2UD9X14MD20,66394,IB4367,Food - Baked Goods,64,3.49,diners-club-carte-blanche,3/18/2024,Indonesia,False
+7QF6U36MH24,67404,SQ7108,Photography,58,249.99,instapayment,1/15/2024,Indonesia,False
+4TE6NV7QU71,30801,AI4833,Clothing - Dresses,97,69.99,jcb,1/2/2024,Poland,False
+4D04UF6YP75,16714,AC7018,Food - Pasta,43,3.99,jcb,2/29/2024,Peru,False
+9PA3FY8UG21,36954,SK7657,Food - Nuts,14,8.49,instapayment,2/3/2024,Argentina,False
+4AF4PG4CG68,50804,SA8535,Kitchen,92,15.99,visa-electron,10/13/2024,Ukraine,False
+9M57M42XH54,49478,AI2034,Home,61,69.99,switch,7/5/2024,China,False
+5WW8C67KW48,55915,IB2065,Food - Salads,24,5.49,jcb,10/21/2024,Thailand,False
+8F21UE6PP73,32096,UA9951,Clothing - Shirts,68,45.99,mastercard,1/19/2024,Philippines,False
+8CP8Y37UQ02,93292,QR9037,Food - Breakfast,62,3.29,maestro,3/8/2024,China,True
+3NC8KR2TK84,61099,SQ1881,Food - Breakfast,87,4.29,jcb,9/19/2024,China,True
+4RT9P13AN82,37272,DL4436,Food - Household,25,8.99,laser,4/7/2024,Nigeria,True
+4WX6DQ4TY80,3880,SA8526,Health,4,49.95,mastercard,4/27/2024,Russia,True
+1FE5F95DH82,11919,LH8573,Food - Condiments,80,3.99,jcb,5/25/2024,Venezuela,True
+9V59D07FE55,83581,DL7687,Food - Cereals,39,3.79,jcb,11/25/2024,South Korea,False
+5RJ9XE4WX63,26787,TG9905,Books,77,12.99,jcb,12/2/2024,Bosnia and Herzegovina,False
+1DJ2RG4DU11,8308,SQ2999,Food - Frozen Foods,58,1.99,diners-club-carte-blanche,8/20/2024,Russia,True
+7DD1WM5KR44,95842,QF7381,Food - Salads,5,6.49,americanexpress,11/22/2024,Indonesia,False
+3AA0T56YD13,77878,SQ7171,Garden,77,39.99,jcb,4/30/2024,Guatemala,False
+4W33A31NF49,47527,AI5535,Food - Bakery,89,4.99,diners-club-us-ca,5/20/2024,China,True
+2JP6P91TD02,6881,TG8197,Outdoor,50,19.99,jcb,1/11/2024,China,True
+8M38JC8NQ19,76960,ET2460,Fitness,88,39.99,americanexpress,6/19/2024,Indonesia,True
+8NV3VV8JW87,19606,NH2315,Food - Canned Soups,48,2.99,americanexpress,8/25/2024,Portugal,False
+4MJ6Q26KK14,11298,UA3003,Clothing - Pants,9,54.99,jcb,8/24/2024,Ireland,False
+5R21WW2EJ83,57153,KL9883,Food - Frozen Foods,11,3.59,diners-club-enroute,8/16/2024,Uganda,True
+9XU4E56WA50,8333,SK7967,Clothing - Bottoms,83,35.99,jcb,9/7/2024,Brazil,True
+9K01AA3FU11,9655,AV7378,Books,69,29.99,jcb,12/25/2024,China,False
+3PK3EM5YT72,12227,IB1137,Food - Canned Goods,68,1.29,americanexpress,8/4/2024,Russia,True
+6EM2PX2FK22,1657,DL5835,Food - Bakery,95,4.59,laser,5/4/2024,Russia,True
+1J46K17DP43,41723,SA1644,Food - Produce,91,3.99,jcb,11/15/2024,Iran,False
+3YU9CV7QK84,87262,IB5209,Outdoor,98,149.99,switch,2/6/2024,Indonesia,True
+5E78QE0EJ56,50101,DL5696,Electronics,61,24.99,visa-electron,4/27/2024,Peru,False
+1PQ8RV5AM09,13503,AF6038,Office,97,29.99,jcb,8/3/2024,China,False
+2QC7RU9YY48,44129,AF4739,Food - Frozen Meals,16,5.99,visa-electron,11/9/2024,China,False
+4Q15A11FA88,62334,AM4620,Food - Meat,13,6.99,china-unionpay,4/20/2024,Syria,True
+2WU2JX6JG16,98730,AA7774,Food - Bakery,13,4.59,mastercard,4/20/2024,Russia,False
+1W21EY0JA56,93118,AZ3288,Accessories,22,24.99,jcb,4/12/2024,Indonesia,False
+7RA0NH1UP59,66532,AM6221,Clothing - Shirts,47,49.99,diners-club-enroute,5/15/2024,Azerbaijan,False
+8N70P08WQ31,63550,QR4567,Food - Beverages,13,4.49,bankcard,7/7/2024,Central African Republic,True
+5NX3A69WV50,48453,ET1495,Footwear,39,29.99,jcb,4/9/2024,Russia,True
+9CC9GF9UR53,5254,AM9824,Toys,72,19.99,americanexpress,11/10/2024,Indonesia,True
+7WR9QP5UP39,80875,TG9254,Food - Condiments,89,4.29,jcb,10/13/2024,Indonesia,True
+1FF9HU4MV38,62297,AM9674,Health,28,39.99,jcb,8/18/2024,Sweden,True
+8R26F54YF28,21633,AZ3269,Food - Deli Meats,64,5.49,maestro,9/8/2024,Indonesia,True
+9AG2RF9HU04,1379,LH3543,Food - Baking,9,3.29,china-unionpay,6/27/2024,Malaysia,True
+1RA5T95VY60,3495,NZ2820,Food - Snacks,50,3.5,diners-club-enroute,10/26/2024,China,True
+8MH9GK9QM96,58881,SQ3572,Food - Dairy,59,2.99,jcb,9/4/2024,China,True
+5CP6F49XU41,41737,CX8594,Food - Salads,95,5.49,jcb,7/3/2024,Sweden,False
+1EK0A54EE92,33219,SK2122,Home,28,29.99,visa-electron,7/7/2024,Netherlands,True
+8VH8JU0JH64,699,LA4585,Food - Condiments,21,2.99,jcb,1/23/2024,Thailand,True
+6FD3AA0TQ65,49090,ET3931,Home,4,29.99,bankcard,5/6/2024,United States,True
+7GP1NP4EV91,96669,LA2523,Home,56,34.99,americanexpress,12/11/2024,Argentina,True
+1VN8YX0XM19,93310,ET6237,Food - Condiments,5,2.29,diners-club-enroute,2/26/2024,China,True
+7H63RX6XC58,97060,AF8029,Audio,54,49.99,jcb,12/5/2024,Kyrgyzstan,False
+4JN4QN3YQ62,12680,SQ5942,Kitchen,66,24.99,jcb,8/7/2024,Ireland,False
+5AK8QD6GP09,65288,KE3806,Kitchen,51,9.99,mastercard,3/8/2024,Indonesia,False
+8UD6XT9XX72,13688,SQ1939,Garden,94,39.99,jcb,10/31/2024,United States,False
+6R24R47HU67,97861,SK7335,Kitchen,20,59.99,china-unionpay,12/25/2024,Brazil,True
+2UX8FW7HY27,87384,SK5342,Food - Snacks,39,4.99,jcb,2/4/2024,Colombia,True
+2P96FM8FJ33,91119,LH7901,Food - Condiments,44,6.49,visa,12/13/2024,Philippines,True
+7K32R16DW76,5147,WN9087,Toys,4,29.99,jcb,3/9/2024,Portugal,True
+5WT2Q76WT71,97260,AF3446,Food - Frozen Foods,89,6.49,maestro,6/10/2024,China,False
+4UV6J85XN22,53737,KE3686,Food - Condiments,46,3.99,mastercard,12/9/2024,Russia,False
+8FC3P73RG12,31204,EK8700,Kitchen,25,39.99,mastercard,11/16/2024,Thailand,False
+3RC1W50HF42,64495,SA4414,Food - Condiments,76,3.49,diners-club-enroute,2/10/2024,Czech Republic,True
+4VG6VD6NK44,58607,NZ6947,Electronics,53,249.99,mastercard,5/24/2024,Brazil,True
+9NU3XA9YA85,32003,KE2644,Clothing - Outerwear,40,129.99,jcb,11/28/2024,Philippines,False
+1ED8KH3KD68,69836,IB4654,Office,81,9.99,jcb,3/23/2024,Ghana,True
+4RC2CD5MA77,89644,UA3991,Food - Dips,65,4.29,jcb,11/17/2024,Russia,True
+9FY1F59QX20,19526,KL3239,Kitchen,42,49.99,jcb,2/7/2024,China,True
+3R47UC7DW47,24916,QR2311,Electronics,90,79.99,jcb,3/7/2024,France,False
+4EA0UP8RM98,74352,AV9387,Office,5,29.99,china-unionpay,6/28/2024,China,True
+9E16FD9AC78,5294,WN5291,Food - Spices,67,1.99,visa,11/4/2024,Brazil,False
+4D27P48MM98,65901,SQ2457,Food - Snacks,94,3.99,jcb,7/1/2024,Russia,False
+7M93P48FC60,71310,QF4102,Clothing - Outerwear,33,45.99,visa-electron,4/10/2024,Russia,True
+6RP8KM4RU62,76622,LH9450,Outdoor,14,29.99,switch,2/14/2024,Indonesia,True
+5PH1N07HA69,43325,LA2548,Health,59,19.99,laser,2/13/2024,Peru,True
+2E46EA8HU86,28684,LA7557,Pets,18,15.99,switch,1/3/2024,China,True
+7A86GA1CW05,14057,AF5655,Clothing - Shirts,22,44.99,mastercard,1/22/2024,France,True
+2XT1FX6YF44,63858,ET4086,Electronics,100,49.99,instapayment,5/15/2024,Kazakhstan,False
+1TQ4NQ0WG92,66159,AA6494,Food - Condiments,77,3.49,jcb,5/11/2024,Portugal,True
+2FH2DR4NU67,46843,NH3534,Kitchen,12,19.99,jcb,9/30/2024,Mongolia,False
+8AW4T82CV31,11041,NZ4073,Food - Beverages,89,3.29,jcb,12/16/2024,China,False
+8CV7PR6QN38,48867,AZ4289,Art Supplies,42,79.99,jcb,4/24/2024,Sweden,True
+2UF2GH8RD16,85384,AF1519,Home,91,17.99,americanexpress,9/15/2024,Indonesia,False
+3K25KA4CH88,87744,EK2095,Food - Dairy,96,3.49,visa-electron,4/21/2024,Portugal,True
+8R41JR7TM71,8450,NZ4078,Kitchen,22,10.99,mastercard,6/15/2024,Laos,False
+7D45YW8GN50,67628,CX6238,Home,76,12.99,diners-club-enroute,4/15/2024,Macedonia,False
+7M11FV5WJ17,33295,QR6020,Food - Breakfast,79,4.99,laser,2/22/2024,China,False
+7QW6VK8RU07,49627,SK1460,Food - Beverages,85,2.79,maestro,6/12/2024,Guatemala,True
+2CF3M58NN75,17623,TG6607,Clothing - Activewear,33,39.99,switch,6/15/2024,Czech Republic,False
+4RY6J56MQ99,44573,AI9401,Toys,38,129.99,jcb,7/9/2024,Morocco,False
+5VH0YT0CX81,71539,BA9137,Food - Soups,44,3.49,jcb,8/10/2024,China,True
+4G94VX7KT12,32152,LH2739,Safety,49,14.99,jcb,12/19/2024,Philippines,True
+1XG7F11CU63,19813,CX9766,Food - Frozen Foods,73,3.99,laser,2/3/2024,United States,True
+4VG0MP9YV62,42528,KL3187,Kitchen,56,39.99,maestro,6/20/2024,Netherlands,True
+1RX7EW4EC66,53130,WN7177,Photography,61,14.99,jcb,10/9/2024,China,False
+3MK6QN9YV65,22276,KL9159,Food - Spices,47,1.99,jcb,5/28/2024,China,False
+6FQ4K66EE28,85256,IB8280,Food - Soups,74,4.29,jcb,12/7/2024,Chile,True
+7WW4FH6JG42,19701,AA4979,Automotive,29,24.99,jcb,11/16/2024,Syria,False
+1DR8HP5NC93,95991,ET1504,Food - Canned Goods,76,2.99,jcb,4/24/2024,Vietnam,True
+8TY9NN1RY62,47433,ET5950,Food - Frozen Foods,2,3.69,jcb,2/25/2024,Serbia,True
+2N60R58HQ80,42094,KL2988,Electronics,26,12.99,diners-club-carte-blanche,12/13/2024,China,True
+4C47JG2KP73,55422,LA3215,Food - Health/Protein,77,24.99,jcb,11/8/2024,Paraguay,True
+5Q55WY7AV32,11415,NH1126,Office,34,24.99,maestro,6/6/2024,Guatemala,True
+9VC1KJ9PD67,20036,LA4303,Kitchen,82,19.99,jcb,4/27/2024,Greece,False
+1JP8AK9CE30,72950,EK9711,Garden,68,24.99,mastercard,4/22/2024,Indonesia,True
+6W51G64NJ96,99160,AF9778,Food - Frozen Foods,100,4.29,visa,2/29/2024,Philippines,False
+9AM7N03GH20,74382,SA3071,Food - Bakery,54,3.29,jcb,4/19/2024,Argentina,False
+3D32PJ7GD07,82417,NH8525,Food - Frozen Food,42,8.99,jcb,7/25/2024,China,True
+3AJ7MG8QJ05,24534,IB3933,Toys,87,29.99,visa-electron,7/17/2024,Poland,True
+4EV8AR5EF36,87352,KE5837,Food - Bakery,13,5.49,china-unionpay,11/19/2024,Venezuela,False
+7X53YT1EY55,73191,BA7948,Food - Snacks,75,1.99,jcb,2/14/2024,Indonesia,False
+1Q76GY3MW94,33609,AV5379,Food - Meat Alternatives,20,2.49,americanexpress,5/8/2024,China,True
+1X20FG1PC25,4082,IB3698,Clothing - Outerwear,57,59.99,jcb,6/14/2024,Poland,False
+4VV2PU8VP97,30081,CX3807,Audio,36,59.99,jcb,3/19/2024,China,False
+6WY1W31NJ07,10326,IB4367,Food - Frozen Foods,6,6.29,maestro,1/4/2024,Philippines,False
+2RF6CJ9NU22,1898,SA6503,Food - Condiments,68,3.49,diners-club-enroute,10/29/2024,Indonesia,True
+3K06Y76ED41,61294,BA4680,Food - Snacks,76,3.99,jcb,12/9/2024,Philippines,True
+6Q88FW7FF28,62185,AC5159,Office,50,19.99,china-unionpay,8/10/2024,Russia,True
+1CM0HP6AX09,11843,SK5810,Food - Meat,40,6.99,diners-club-carte-blanche,7/28/2024,Indonesia,True
+8PT1UX6EC10,44113,WN9115,Kitchen,14,14.99,china-unionpay,12/2/2024,China,True
+5H27UA3XT54,27742,UA3391,Bicycles,16,29.99,bankcard,10/18/2024,France,True
+4ME1XN5XP22,8959,NZ9438,Food - Frozen Foods,47,4.99,jcb,2/10/2024,France,True
+1T01RM0DJ61,93305,BA8146,Food - Condiments,87,3.49,jcb,10/26/2024,United States,True
+2R90MR2VJ05,64588,SA7753,Travel,84,15.99,diners-club-enroute,5/2/2024,Portugal,True
+5R97A99GE76,62706,LH4362,Fitness,76,34.99,jcb,2/9/2024,Ghana,False
+1R06GX4YF31,61508,BA2359,Food - Breakfast,95,2.99,diners-club-enroute,3/29/2024,Poland,True
+8WA9WF9YK45,18912,SQ8501,Home,47,24.99,jcb,1/4/2024,China,False
+3V87DN8PM59,56213,UA4046,Food - Desserts,5,2.29,diners-club-carte-blanche,5/26/2024,China,False
+8QP0R72GJ51,61397,SQ5996,Fitness,83,12.99,jcb,1/29/2024,Cameroon,False
+3FP1KD4JU33,26418,AF1768,Food - Canned Goods,39,3.99,jcb,7/28/2024,Netherlands,True
+9TK0MP2TT77,50472,SA4231,Kitchen,94,149.99,jcb,8/19/2024,Indonesia,False
+1QU7MU4GH88,47533,IB1590,Clothing - Accessories,8,19.99,jcb,11/21/2024,Brazil,False
+4RU1D18CT30,37690,ET3908,Food - Frozen Meals,76,7.49,americanexpress,12/14/2024,Colombia,True
+6HK3JE0DM03,12588,SA7154,Food - Spices,23,2.49,jcb,4/20/2024,Guatemala,True
+9X26TF6HT03,57787,EK1142,Food - Condiments,34,3.39,jcb,3/21/2024,Brazil,True
+1EQ1KH2NF00,98581,NH1373,Pets,84,24.99,switch,11/26/2024,Poland,True
+2QU6KR9KE85,32294,EK5205,Home,100,35.0,jcb,12/29/2024,Uganda,True
+6GC2R40MA57,11998,AI8209,Food - Condiments,19,3.49,jcb,7/18/2024,South Korea,False
+6WQ5C13PN49,32536,NH6128,Pets,67,10.99,visa,10/23/2024,Venezuela,False
+1EM2QC2HP61,80849,AF4908,Food - Seafood,14,3.29,jcb,12/15/2024,Poland,False
+7WA0M76MR74,13648,IB9630,Food - Meat,47,9.99,americanexpress,1/20/2024,France,True
+8T92PD7GF70,79558,AI8523,Home,36,24.99,laser,1/30/2024,China,True
+7J58KG0MX32,41731,TG8460,Beauty,86,12.99,china-unionpay,4/30/2024,Indonesia,True
+9D64VX7EC13,6924,LA1124,Pets,68,24.99,diners-club-carte-blanche,5/19/2024,Philippines,True
+9Y43Q48AX38,44330,QF2960,Outdoor,48,49.99,mastercard,9/3/2024,China,False
+1Y32NP2PD28,49964,SQ6672,Food - Baking,62,4.49,switch,2/28/2024,Peru,False
+4KN8EN0KP29,27444,KL8670,Clothing - Dresses,100,59.99,jcb,11/6/2024,Indonesia,False
+2MP9JU8WR81,84343,ET4228,Food - Dips,80,4.29,mastercard,7/17/2024,Indonesia,True
+5N98X72JD63,94764,QR5478,Clothing - Tops,47,34.99,jcb,6/28/2024,Netherlands,True
+7U19E77DA47,46776,KE8445,Garden,50,22.99,diners-club-international,7/16/2024,Canada,True
+2YA7AH6MH93,37148,AA8346,Fitness,72,49.99,china-unionpay,8/1/2024,Greece,True
+6AV2X49FV73,74627,CX5539,Food - Frozen Foods,15,7.99,jcb,7/24/2024,Ireland,True
+8YW6UF8NJ42,94410,KE5891,Clothing,74,24.99,mastercard,6/4/2024,Indonesia,False
+7UV0VP8TC43,62154,ET5759,Food - Prepared Meals,5,8.99,visa-electron,8/21/2024,Ukraine,True
+7R43DJ5UC91,71865,KE2503,Food - Dairy Alternatives,58,1.99,diners-club-carte-blanche,2/16/2024,Yemen,True
+5PT2X03NH24,20434,DL5702,Clothing - Footwear,29,29.99,diners-club-us-ca,4/19/2024,Indonesia,True
+6W65UC8HW67,58816,AM9401,Music,93,199.99,jcb,4/20/2024,Mexico,True
+7MQ8DE3QQ86,68447,AA1144,Music,96,39.99,mastercard,12/25/2024,China,True
+6FE9RF3QQ40,37308,NH3380,Food - Frozen Vegetables,98,5.99,jcb,12/20/2024,China,True
+8X08MY3UU80,25670,AV4168,Food - Canned Goods,11,4.5,jcb,5/5/2024,China,True
+7R63E54CJ42,96421,AM7051,Food - Produce,68,4.49,diners-club-international,7/18/2024,Thailand,False
+2XQ8GQ4JR78,51909,AA1559,Office,76,29.99,maestro,4/3/2024,Brazil,False
+6TT5GP9XX01,89905,UA6626,Kitchen,38,39.99,mastercard,11/1/2024,China,False
+3N18KP7PQ82,24666,CX3660,Food - Baking,99,3.49,jcb,1/9/2024,Indonesia,True
+9DV6W61UR15,94088,CX4991,Outdoor,27,24.99,jcb,1/16/2024,Mexico,False
+3VF1Y70MM77,43476,DL9400,Food - Frozen Foods,30,1.99,jcb,6/16/2024,France,False
+1GA7J25NM83,7373,AZ6527,Garden,73,15.99,china-unionpay,8/20/2024,Dominican Republic,True
+6N81KQ9PW71,72523,ET5694,Food - Breakfast,41,4.29,bankcard,8/28/2024,Portugal,True
+5WF5MY4CK78,79287,KL8812,Clothing - Accessories,82,15.99,americanexpress,12/30/2024,Indonesia,False
+1JJ0GG1QG76,52110,AC6229,Food - Frozen Foods,43,5.99,americanexpress,10/30/2024,Panama,False
+8XQ3KK7TT59,68532,CX5539,Kitchen,16,18.99,americanexpress,6/4/2024,Philippines,True
+6WG6XA1KV36,52404,AC5741,Outdoor,42,49.99,diners-club-carte-blanche,2/23/2024,Portugal,False
+8H96XA3XC06,64403,LH1926,Food - Dairy Alternatives,39,1.99,switch,11/12/2024,Indonesia,True
+6VY5GK7EQ08,20927,NZ6574,Food - Canned Goods,37,3.99,jcb,5/8/2024,Reunion,True
+7VV4EJ0NX72,64105,NH6916,Food - Sauces,89,2.59,bankcard,1/12/2024,Greece,True
+5DF5FV3XA12,74578,CX1254,Food - Produce,47,1.29,visa-electron,7/13/2024,Greece,True
+8VA7XJ8AQ74,48948,KL7081,Kitchen,50,22.99,maestro,12/29/2024,Philippines,False
+1K53QK6VY27,48395,EK8648,Home,45,35.0,jcb,2/13/2024,China,False
+9MA9VN7DG57,52815,KE7203,Food - Soups,79,3.29,americanexpress,3/23/2024,South Africa,True
+7CE0G07YY71,14714,KE6235,Food - Baking,62,2.49,jcb,11/28/2024,Thailand,True
+5F61MK7MH21,56869,AZ2355,Food - Frozen Desserts,8,5.99,maestro,10/7/2024,Poland,True
+7TM7M62UE67,51915,SQ4965,Fitness,20,22.99,diners-club-international,12/6/2024,Nigeria,False
+3JW4EG7KX67,84625,SQ6672,Health,17,69.99,mastercard,8/14/2024,Philippines,False
+6X77WP8XW16,50074,ET4108,Pets,42,26.99,jcb,7/15/2024,France,False
+3XU6EH0XM32,29535,NZ3861,Food - Condiments,59,3.99,switch,5/25/2024,Poland,False
+7F55PH4RU44,56714,TG7442,Food - Condiments,20,3.49,diners-club-enroute,4/30/2024,Poland,True
+7WV7TW9RA12,35911,DL3161,Health,4,19.99,jcb,11/14/2024,Sweden,True
+8FA6C07EN82,68939,DL6355,Food - Bakery,76,3.99,jcb,1/27/2024,China,False
+2NJ7EH5HR48,29765,EK6922,Electronics,52,49.99,jcb,10/7/2024,France,False
+3JP6QG5PR65,52612,KE1052,Food - Grains,93,2.49,visa-electron,12/15/2024,China,False
+7HT7TQ0JE34,3423,AZ2159,Food - Frozen,76,4.49,jcb,11/2/2024,Ireland,False
+7KT7VH4AV35,3612,AC3869,Office,40,8.99,instapayment,10/5/2024,Hungary,False
+3T74T49EU12,59257,KL9596,Outdoor,75,59.99,diners-club-us-ca,7/11/2024,Palestinian Territory,False
+6H01Y30JV02,21346,LH1606,Food - Breakfast,44,4.49,instapayment,12/2/2024,Brazil,True
+5XM4CN7AV09,65630,AC5480,Food - Frozen Vegetables,87,5.99,americanexpress,10/22/2024,Thailand,True
+8XG6H76UA82,88382,WN5349,Kitchen,50,19.99,mastercard,10/9/2024,Spain,True
+1M38P10CU40,39164,QR4142,Toys,87,35.99,maestro,6/15/2024,China,True
+5W62K59YD66,70676,SK9763,Food - Frozen Foods,88,7.49,diners-club-international,6/30/2024,Indonesia,True
+3GG6MX9QT31,11928,QR8923,Clothing - Dresses,34,79.99,switch,12/3/2024,China,False
+2CU6DP5EE50,10382,AI8241,Home Appliances,38,129.99,jcb,10/30/2024,China,False
+6C47Y83PK55,42070,LH2563,Food - Prepared Foods,45,4.99,visa,3/25/2024,China,True
+7AU5CJ3MP23,3803,KE7078,Accessories,4,10.99,switch,11/29/2024,China,False
+1DP9XN9CD69,28246,SK3905,Kitchen,92,59.99,bankcard,11/15/2024,Russia,True
+1F94UH5WU55,78385,AZ2284,Kitchen,83,149.99,jcb,5/18/2024,China,False
+9JX6FP3MC08,74367,TG1457,Food - Oils & Vinegars,6,8.99,instapayment,2/21/2024,United States,False
+8QD2QD8YY11,21495,SK7047,Electronics,9,49.99,china-unionpay,5/1/2024,Brazil,True
+6QX1JP9RM30,82158,SA8880,Food - Meat,82,6.99,diners-club-us-ca,4/10/2024,Philippines,False
+6JD0JQ4HE62,59315,KL2988,Audio,60,19.99,bankcard,7/11/2024,Russia,False
+2JR4KD1RH83,37949,AV4562,Home,78,199.99,jcb,6/15/2024,United States,False
+9ED7G67GR92,14814,LA3771,Kitchen,62,59.99,switch,2/27/2024,Venezuela,True
+1NV9GR2AA80,27597,TG4753,Food - Produce,68,1.99,visa-electron,12/30/2024,Russia,True
+7EG3W39GR75,52389,DL4833,Health,95,34.99,visa,12/20/2024,Zimbabwe,False
+7YK1T24JC40,82160,LH7260,Food - Canned Goods,61,2.19,jcb,8/18/2024,Bulgaria,False
+8CX0RX0MY68,36768,IB3698,Food - Spices,50,1.99,jcb,8/18/2024,Azerbaijan,True
+6Y35WY2NG29,99703,WN9851,Fitness,2,14.99,visa,2/19/2024,Tunisia,False
+1VE6DY4EN24,72070,IB1902,Home Appliances,87,129.99,maestro,11/19/2024,Greece,False
+8QR9QE8UQ25,72608,LH6295,Food - Sauces,2,4.99,maestro,11/5/2024,United States,False
+6KQ6GM3HD02,10418,KE9821,Food - Condiments,86,3.29,china-unionpay,1/10/2024,Peru,True
+8DT1TX4CM79,56678,QF8486,Food - Meat,59,5.49,bankcard,10/10/2024,China,False
+3DX8VM9TG48,63288,AF8339,Food - Meat,92,5.99,laser,3/20/2024,Japan,True
+4PR8MU9WT68,60525,SA4429,Smart Home,70,169.99,switch,2/4/2024,Panama,True
+2WN2FK2HT47,4816,CX2045,Food - Condiments,93,2.49,maestro,7/11/2024,Hungary,False
+6CG7YH4YU63,44805,QF5089,Kitchen,67,49.99,bankcard,8/12/2024,Japan,False
+9T79MJ9KE85,44303,LA4286,Pets,50,19.99,jcb,6/14/2024,Bolivia,True
+6RP4H13JN51,30287,SK7157,Food - Dairy,14,4.49,mastercard,2/4/2024,Croatia,True
+3DH6N47WQ98,65671,QF1885,Food - Meat & Seafood,55,4.99,mastercard,4/4/2024,China,False
+4T68XF9HE33,8587,AZ9387,Kitchen,42,59.99,jcb,1/10/2024,Portugal,False
+5JG5M87RA50,42741,DL3161,Food - Condiments,69,4.29,mastercard,7/8/2024,Brazil,True
+3C13PA9CN05,96580,SK9521,Food - Snacks,12,3.49,jcb,9/26/2024,Indonesia,False
+7X94UP5TG81,19360,NZ1348,Food - Salads,55,4.49,china-unionpay,10/3/2024,Russia,True
+7GH0CT9QH83,39534,BA2361,Food - Breakfast,99,1.99,maestro,7/11/2024,China,True
+3NC2QY8GT96,56958,KE3851,Food - Spices,15,1.99,jcb,11/30/2024,China,False
+6CJ8RN0QP97,72219,AF8357,Food - Spices,25,2.99,switch,1/20/2024,Japan,False
+1NA0MG0TW77,28277,DL8529,Food - Baking Goods,20,2.99,solo,6/29/2024,China,False
+3JK2WN8WA23,19261,AM8332,Food - Snacks,23,3.99,jcb,6/5/2024,Peru,False
+6DG0VW2CX46,28056,IB8185,Food - Beverages,62,3.99,jcb,3/29/2024,China,True
+8QN3H59HQ92,14893,NZ3511,Food - Snacks,18,3.5,jcb,11/1/2024,Japan,True
+8KP1PX4PN82,31514,KE8361,Food - Frozen Foods,56,4.99,china-unionpay,11/14/2024,Sweden,True
+3Y40TN3VY27,84783,ET6681,Electronics,8,49.99,jcb,4/3/2024,Philippines,True
+6JN8XA0HY73,84492,AM9204,Fitness,17,29.99,diners-club-us-ca,4/20/2024,Honduras,True
+4E12MX2PT94,35730,SK3409,Food - Frozen Foods,39,6.29,jcb,6/23/2024,Russia,True
+2DA9QQ9NF83,88635,LA6492,Food - Dairy,36,3.49,mastercard,12/18/2024,Japan,False
+5W23NN0UG14,38958,SQ8523,Food - Bakery,69,2.99,americanexpress,1/20/2024,Nigeria,True
+9XJ8M18HU68,20926,NZ1242,Food - Meat,52,7.99,mastercard,6/22/2024,Ukraine,False
+2WN8AK1FW38,83228,NZ7268,Food - Sauces,90,3.29,jcb,2/26/2024,United States,False
+2F50FQ0KM17,17163,TG5038,Outdoor,57,49.99,visa-electron,2/11/2024,China,True
+3XX4AM2KG71,68012,AI5205,Kitchen,82,22.99,jcb,12/17/2024,Russia,False
+5W71DW9KC12,1948,LH2858,Kitchen,88,14.99,jcb,10/13/2024,Brazil,True
+9PW4CE8FC45,46398,EK2263,Pets,54,49.99,china-unionpay,5/12/2024,Haiti,False
+7QC9J97WG44,27984,NZ1432,Food - Bakery,17,2.99,diners-club-carte-blanche,4/24/2024,China,True
+6NY3QC4WY88,65330,AF1670,Kitchen,86,15.99,bankcard,9/27/2024,Portugal,True
+2GK2MW6KH33,47805,AI3768,Food - Condiments,35,5.29,jcb,5/22/2024,China,True
+8DU3MC8VD37,29020,ET9515,Home Improvement,6,39.99,jcb,11/26/2024,Papua New Guinea,True
+6X16YU0KM22,99941,QF5185,Clothing - Jumpsuits,88,54.99,laser,3/19/2024,China,True
+8HR2HW6MF56,50981,AC6932,Audio,21,129.99,jcb,9/29/2024,Brazil,True
+5K76YP7EX02,65939,LA9049,Home,89,34.99,jcb,4/9/2024,Greece,False
+7YF7M77GH42,79521,EK8570,Food - Breakfast,45,4.29,jcb,5/13/2024,Israel,True
+6VH2F23WK33,27507,EK9265,Food - Canned Goods,17,2.49,jcb,7/11/2024,Portugal,False
+7HG7VT1MD91,28392,KE2633,Food - Grains,10,5.79,jcb,4/19/2024,Russia,True
+1C76C05WD23,58516,QR3556,Food - Bakery,85,2.49,mastercard,4/14/2024,Iran,False
+1RW3CG2QH22,16077,AZ9875,Pets,35,39.99,diners-club-carte-blanche,10/3/2024,Vietnam,False
+6YC8E98UQ70,76083,SA3789,Food - Spices,93,2.99,jcb,6/1/2024,Belarus,False
+5M30M68AP98,41912,DL5432,Kitchen,42,34.99,diners-club-enroute,4/10/2024,China,False
+1Y33MW2TN46,15799,SQ6336,Food - Prepared Foods,80,5.99,diners-club-us-ca,3/5/2024,Tunisia,False
+3XQ8FJ5YF60,39336,AF4074,Food - Dairy,88,3.49,jcb,7/8/2024,Philippines,False
+5Q51RR1QG50,21868,NZ8955,Clothing - Outerwear,62,49.99,bankcard,11/7/2024,Macedonia,False
+5X67GC5KX87,63278,AI8523,Food - Snacks,22,3.29,jcb,6/20/2024,China,True
+6QF1M29XP15,58750,SA2233,Food - Produce,33,1.89,maestro,12/16/2024,Philippines,False
+4WU5UX6JU54,36573,SK9881,Food - Meat,85,6.99,jcb,7/1/2024,Indonesia,True
+1EQ6DF2KK30,12342,TG1198,Food - Condiments,54,4.29,jcb,7/24/2024,Brazil,False
+8H69Q57GY84,81929,AM8764,Home,5,34.99,jcb,5/30/2024,South Africa,False
+2YU2TP2XN82,4466,AI1237,Audio,25,19.99,bankcard,3/10/2024,Thailand,True
+5HA1E35EP61,37621,NH3235,Outdoor,59,24.99,jcb,11/9/2024,Brazil,True
+8TC4WF3QY42,69095,EK5296,Food - Seafood,51,4.49,diners-club-carte-blanche,3/28/2024,China,False
+7WG0EM0WU10,79520,UA5158,Food - Canned Goods,25,1.29,diners-club-enroute,1/27/2024,Ecuador,True
+9YM8VR3QJ80,49329,AZ3199,Smart Home,47,99.99,switch,1/13/2024,China,True
+9A14C18AA61,13623,AV9484,Food - Condiments,68,3.49,laser,3/17/2024,Brazil,False
+4JG5QC8DR34,6263,KE5048,Food - Bakery,66,5.49,visa-electron,6/29/2024,Portugal,False
+9YF4VC6ME94,44529,QR1958,Outdoor,90,49.99,solo,9/29/2024,Canada,True
+7P48G93DN98,71049,IB1460,Food - Breakfast,93,2.49,diners-club-carte-blanche,7/25/2024,China,False
+5PA4VG4CK05,6488,QR6498,Food - Condiments,16,6.49,instapayment,12/20/2024,China,True
+3XY1WA9JG49,92343,AM9017,Food - Condiments,28,4.79,jcb,11/14/2024,Greece,False
+7WJ2TF3UX13,45383,WN7063,Food - Frozen Foods,10,4.29,jcb,12/20/2024,Russia,False
+3PH1Y61VE87,33037,UA3264,Kitchen,59,39.99,bankcard,5/23/2024,China,False
+6GH5XW6AH94,95923,LH3536,Health,43,34.99,solo,7/15/2024,Greece,True
+5K30P54WX35,17959,AA8464,Food - Snacks,63,7.19,maestro,2/23/2024,China,True
+9EJ6F98VP59,49080,NZ3010,Photography,84,49.99,jcb,1/20/2024,China,False
+9VT9FY9WD47,6464,BA9664,Audio,87,69.99,jcb,8/15/2024,Portugal,False
+8YE3GR9JF27,11399,UA2052,Clothing,56,44.99,americanexpress,5/27/2024,Colombia,False
+9EF1JP2KP58,36866,SK4013,Smart Home,60,79.99,switch,11/4/2024,Iran,False
+6UE2CU4DF38,45683,NZ3482,Home,16,39.99,bankcard,2/20/2024,Chile,False
+1U59N68RU28,61959,ET3331,Outdoor,91,24.99,diners-club-enroute,1/25/2024,China,True
+1GD4KT1GR49,59352,NZ3672,Food - Snacks,27,2.99,jcb,9/13/2024,Poland,True
+2AR9TM8YK93,21848,TG6198,Food - Condiments,17,4.49,jcb,2/28/2024,Russia,True
+2TC3AQ6RG56,70028,SQ4019,Electronics,11,39.99,jcb,11/20/2024,United States,False
+8RF7XD7XG44,94325,KL5312,Outdoor,93,49.99,diners-club-us-ca,12/22/2024,Afghanistan,False
+3FC6YQ9CN55,82961,AM5161,Food - Meats,49,9.99,visa,2/1/2024,Mexico,True
+1H05D55AF16,64772,AI8973,Home Security,85,299.99,diners-club-enroute,9/29/2024,Ethiopia,False
+7QC7D71XC92,26045,LA4492,Food - Sauces,21,4.79,diners-club-enroute,2/4/2024,China,True
+7XJ1P51XX04,23978,QR6336,Food - Meat,79,8.99,jcb,5/17/2024,Niger,False
+7TM4WH9YH98,72953,SK9472,Food - Snacks,72,4.49,mastercard,5/28/2024,Mexico,True
+8JY7VQ0GC05,14453,LA4273,Garden,12,9.99,jcb,5/24/2024,Maldives,False
+1VJ5F97PQ98,5647,LH1985,Food - Dips,9,2.29,jcb,12/12/2024,China,False
+9G78J55DJ92,64622,NZ9438,Food - Canned Goods,34,1.99,diners-club-us-ca,9/15/2024,Poland,True
+8WT5U61DC65,37560,NH9930,Kitchen,98,24.99,switch,7/28/2024,China,False
+1H74YH1TA43,24188,QF7333,Outdoor,84,349.99,mastercard,12/14/2024,China,True
+2TF0A99XF62,36737,EK1066,Automotive,24,39.99,china-unionpay,12/27/2024,Uruguay,True
+3E93Y38FE41,84588,QF4776,Home,75,19.99,diners-club-international,8/7/2024,Sweden,True
+1TH3FJ8KC42,78808,IB2276,Food - Snacks,16,3.99,china-unionpay,2/23/2024,Morocco,False
+9YU9DF2YD51,6370,NZ7253,Food - Meats,6,5.49,jcb,1/11/2024,China,True
+4AP5P15JV53,44039,WN9434,Food - Frozen Desserts,91,6.99,jcb,7/7/2024,Indonesia,True
+4WX7MJ3TF01,45640,EK9536,Food - Salads,29,5.99,americanexpress,7/22/2024,China,True
+7UV6D66HK38,86540,AZ3752,Kitchen,41,79.99,jcb,7/1/2024,Malaysia,True
+4UT5U47NQ61,16122,QF8051,Toys,45,29.99,jcb,11/10/2024,Indonesia,False
+2TR5NM2WJ31,90837,CX3692,Food - Meat,96,5.99,visa,3/13/2024,Liberia,True
+4AC0W55FP19,97323,AC6946,Electronics,28,199.99,jcb,5/22/2024,Czech Republic,True
+5W98DW9DG01,68920,EK8832,Pets,21,29.99,mastercard,6/14/2024,Finland,True
+9RJ0WN7QP97,98548,ET5945,Toys,11,39.99,jcb,7/24/2024,Russia,False
+2A83H55EJ07,30177,SQ6733,Kitchen,71,19.99,jcb,8/30/2024,Kenya,False
+6WH7HN2HG24,7902,AV7022,Office,10,29.99,jcb,5/27/2024,France,False
+3WM8F51QT81,86741,AA6083,Food - Beverages,100,3.49,diners-club-us-ca,2/10/2024,Portugal,True
+1TU2R54KR21,97411,QF2246,Food - Condiments,66,3.99,maestro,7/22/2024,Croatia,True
+1KN0KF3UF94,32876,QR1607,Kitchen,12,39.99,jcb,8/4/2024,Thailand,True
+3H44MR0RQ99,25173,QR5322,Food - Prepared Foods,4,3.99,jcb,1/30/2024,Slovenia,True
+9UN0E30NG33,8175,SQ5103,Food - Snacks,42,3.99,china-unionpay,5/12/2024,United States,False
+8UF1X11JC73,64548,AM3867,Food - Snacks,48,5.99,laser,11/18/2024,Malaysia,True
+3P11NP5VJ92,58329,SA1505,Automotive,29,19.99,jcb,2/13/2024,Portugal,False
+8UD5TT3PN53,94818,SQ9635,Home,75,39.99,jcb,1/27/2024,France,True
+8AY3XG1JY82,54762,CX2731,Electronics,5,25.99,maestro,9/1/2024,Iran,True
+3GH9PC3JP43,8987,CX7350,Food - Frozen Foods,52,5.99,mastercard,6/1/2024,Brazil,False
+4WA8YR6DM12,68283,AZ4087,Outdoor,26,34.99,maestro,9/28/2024,China,False
+3J17EM7EP83,1826,KL4094,Food - Frozen Foods,74,3.99,mastercard,9/9/2024,China,False
+3UG2X34KW45,25446,QF1039,Food - Produce,81,3.99,jcb,3/16/2024,Bolivia,True
+6JE4VM5UJ82,56161,AA6647,Health,61,29.99,visa,1/3/2024,Thailand,False
+1W51D70VV47,78003,SA8898,Kitchen,53,19.99,bankcard,11/1/2024,Russia,True
+7J44DQ1MG81,13427,QR9657,Food - Snacks,51,4.49,mastercard,3/19/2024,Indonesia,False
+7Q27FY5GT81,12621,AZ5428,Food - Prepared Foods,66,4.29,china-unionpay,10/3/2024,China,True
+2NV0FR0JK99,54625,AV2802,Food - Produce,24,0.99,switch,9/17/2024,Indonesia,False
+5CJ0QF0PX83,60813,AA9987,Food - Beverages,94,2.99,maestro,3/24/2024,Poland,True
+3KV5Y11RC38,86996,LA8551,Food - Bakery,49,3.99,jcb,11/12/2024,Sweden,False
+4RJ5UG6FC17,80560,AA4011,Food - Dairy,37,5.99,americanexpress,2/21/2024,Brazil,False
+6G71H79JG93,48195,AZ8352,Health,77,39.99,americanexpress,5/3/2024,Netherlands,False
+1Y94JR0MU24,92104,SQ2917,Accessories,63,19.99,mastercard,2/28/2024,Portugal,False
+3R52V14UA64,48586,SQ1240,Clothing - Bottoms,93,34.99,maestro,5/1/2024,Sudan,False
+7KC3EN0GG13,61035,TG6198,Pets,9,59.99,jcb,10/16/2024,Georgia,True
+7AM8DF5QJ17,42480,SQ1339,Food - Produce,32,2.99,switch,12/25/2024,Indonesia,True
+6CR6DW6WW50,41365,KE1190,Food - Pasta,77,1.79,jcb,10/8/2024,Mexico,False
+1G86KV6WC13,7257,SQ5486,Food - Snacks,84,3.99,laser,11/30/2024,Macedonia,False
+6KN5UM6GJ61,99629,WN7700,Home,77,29.99,jcb,7/31/2024,Portugal,True
+2CE8W84AF02,49812,BA7041,Food - Frozen Foods,66,2.99,mastercard,12/14/2024,Portugal,True
+6YU8V75EC15,13949,SQ9836,Food - Meat,47,10.99,americanexpress,9/12/2024,Sweden,False
+3RM7D10VY03,62578,QF5020,Pets,96,39.99,mastercard,6/5/2024,Russia,False
+7AN4YG3NH85,58385,WN4429,Home,75,79.99,jcb,7/5/2024,China,False
+8V45W66DH49,66531,AM5106,Food - Beverages,77,5.99,jcb,11/1/2024,Indonesia,False
+8RE7FV3EE06,57625,AZ7651,Home,75,39.99,instapayment,2/28/2024,Philippines,False
+7TM6JY7WX29,92466,KE3996,Automotive,26,14.99,jcb,5/19/2024,Indonesia,True
+1QE8X59VW49,78885,NZ1813,Clothing - Swimwear,77,29.99,visa,1/27/2024,Indonesia,True
+6DX8DT1PP58,56868,AF4908,Home,2,39.99,jcb,1/1/2024,Indonesia,True
+9U96DH0NG55,58294,SK6775,Food - Frozen Foods,0,4.49,jcb,7/2/2024,Ireland,False
+8V52YM4RV39,90999,NZ8880,Food - Beverages,53,1.99,maestro,8/31/2024,China,True
+1DG9AA2UP82,19091,WN3007,Food - Health/Protein,75,24.99,jcb,12/27/2024,China,True
+3P18EU5FP68,23420,AM6269,Food - Snacks,44,3.99,jcb,8/12/2024,Indonesia,False
+6M28X75GM41,54124,IB3680,Food - Frozen Foods,20,5.49,mastercard,1/14/2024,United States,False
+9NE1RD8QE86,87848,SK9514,Accessories,71,24.99,diners-club-carte-blanche,7/26/2024,Thailand,True
+8JH1JP3HA40,55194,AC9441,Food - Salads,0,4.29,jcb,8/20/2024,China,True
+7F17VK4YE32,6950,DL1887,Food - Grains,92,2.99,mastercard,8/6/2024,Madagascar,True
+5PA5AU1DX06,58581,SK2193,Food - Bakery,7,3.49,diners-club-enroute,3/7/2024,Libya,True
+9UA1AD4CD53,78027,SK3209,Outdoor,55,89.99,diners-club-enroute,3/29/2024,Ireland,False
+1K67MK4RG81,10648,KL4500,Food - Vegetables,81,4.99,jcb,8/22/2024,China,False
+6R77C81XJ19,31448,AI5732,Food - Produce,56,3.99,switch,4/21/2024,Russia,False
+9CV1KW9CR07,94870,AA4754,Fitness,92,34.99,jcb,12/30/2024,Ukraine,False
+1GV9H65FD81,39988,SK5287,Food - Dairy,67,4.99,switch,1/4/2024,Indonesia,False
+6J28CK6PR50,81749,EK2062,Electronics,51,199.99,mastercard,3/13/2024,China,True
+7UW3M43WP32,31477,UA2598,Clothing - Activewear,31,34.99,laser,2/22/2024,Indonesia,True
+9E44W72JX71,92776,ET5120,Clothing,80,89.99,mastercard,12/14/2024,China,False
+9RU0TH9CG20,31232,AC9162,Outdoor,48,89.99,diners-club-enroute,5/4/2024,China,True
+9KA5X64YR73,10778,UA9951,Food - Dairy,97,3.49,jcb,3/27/2024,Indonesia,False
+8W25JA5DH87,17376,UA4657,Kitchen,43,19.99,diners-club-carte-blanche,10/27/2024,Russia,True
+6RG9RG8HQ91,34345,TG7509,Food - Meats,0,4.99,mastercard,5/14/2024,Portugal,False
+9AY0QG2HJ86,1282,QF2960,Audio,64,39.99,china-unionpay,3/18/2024,Indonesia,True
+1YA9XA6XK22,63311,NZ4755,Food - Condiments,73,3.49,jcb,9/5/2024,Czech Republic,True
+7UT6VG7CC53,44570,SK9879,Food - Condiments,11,3.79,jcb,6/21/2024,Madagascar,True
+3HW6EG5JX32,87914,QF6361,Outdoor,29,49.99,jcb,9/4/2024,Pakistan,True
+5YV3M16XK15,52934,AM9388,Food - Prepared Foods,51,5.99,jcb,10/7/2024,Cuba,False
+9XD3G53TM93,49108,SK3500,Food - Produce,65,2.39,visa-electron,3/17/2024,Brazil,False
+2AE6XC9ET35,75910,AV5400,Home,50,39.99,jcb,2/21/2024,Philippines,True
+2Q41Q06KM13,24847,AF9229,Food - Seafood,51,9.99,jcb,9/20/2024,Japan,True
+6KG6KT7XF91,53676,BA6528,Fitness,96,39.99,jcb,12/5/2024,Russia,False
+8X69WU3MF43,99928,AA5573,Food - Grains,96,3.49,mastercard,6/29/2024,Brazil,False
+1VA9YE9MR13,56950,ET9925,Accessories,63,24.99,visa-electron,9/16/2024,China,True
+9NQ9A79UE30,49650,AI9969,Fitness,77,49.99,maestro,7/22/2024,France,False
+3U53JY6CH69,5245,UA9984,Food - Grains,20,1.79,instapayment,12/10/2024,Democratic Republic of the Congo,False
+8FU8JJ4ME03,16783,NH8513,Food - Meat,88,9.99,americanexpress,10/3/2024,Poland,False
+5TP3MV5CM04,97367,AA2932,Food - Frozen Desserts,10,5.99,mastercard,9/11/2024,Georgia,False
+7QC9TQ4DE73,16053,TG9997,Food - Produce,15,6.99,jcb,7/11/2024,Ethiopia,False
+8WU2DV1HX18,22574,NH2223,Accessories,38,99.99,jcb,5/10/2024,Indonesia,False
+9VE8MN9GA32,74671,NZ8550,Garden,96,49.99,jcb,3/16/2024,Finland,True
+5ER8RN4QC46,15313,TG7596,Food - Meat,59,9.99,maestro,3/31/2024,Palestinian Territory,False
+1MQ5M23VJ20,35893,AI1516,Food - Snacks,2,3.99,laser,4/30/2024,Argentina,False
+2HA2RJ7TF63,6285,SQ3131,Smart Home,57,34.99,solo,10/20/2024,Philippines,False
+8XN8HC5XA12,17444,LA9176,Health,60,19.99,jcb,5/10/2024,Czech Republic,True
+3QP1D48FV82,14184,NH4540,Kitchen,60,39.99,diners-club-enroute,6/24/2024,Poland,True
+3UG5Q09XW63,62987,EK2269,Food - Canned Goods,84,2.49,jcb,5/8/2024,China,True
+9HP3XR9PX32,84715,WN2042,Clothing - Tops,11,29.99,maestro,9/17/2024,Indonesia,False
+2YN2GC2GW19,12714,AM4189,Outdoor,57,59.99,jcb,5/15/2024,Portugal,False
+9QW3VW1GM36,27826,IB8895,Pets,86,109.99,diners-club-enroute,9/19/2024,Mexico,False
+9AK0F39HY57,895,AC8831,Home,29,24.99,maestro,5/4/2024,China,False
+1W89CK5DE72,51758,LA1025,Home,19,22.99,visa-electron,6/25/2024,Indonesia,True
+6G43JJ3KV05,3124,CX5078,Electronics,42,49.99,diners-club-carte-blanche,3/23/2024,Poland,True
+9YT4X05UQ18,30049,SA5186,Food - Baking,3,5.99,jcb,9/24/2024,Tajikistan,True
+7GY8JC5UR79,13802,AF4994,Food - Frozen Desserts,79,4.5,jcb,6/28/2024,Thailand,False
+7CQ6GW4HQ49,12031,TG6898,Food - Beverages,78,3.99,visa,8/23/2024,Poland,True
+2N11G54UR31,79465,AA5556,Travel,94,15.99,visa,9/4/2024,Netherlands,True
+2N95NR8CQ33,44874,AF5545,Fitness,0,15.99,china-unionpay,4/28/2024,Greece,False
+2FU8XQ7KG93,91020,QF1724,Food - Produce,72,3.49,diners-club-carte-blanche,1/1/2024,France,False
+7XT0N20PF58,32887,BA8137,Kitchen,69,79.99,jcb,11/18/2024,Indonesia,True
+7A70F84ER42,56698,ET5125,Food - Condiments,41,3.29,jcb,10/3/2024,Croatia,False
+6QC0GC5JR10,22041,LH3400,Food - Beverages,11,2.49,jcb,6/28/2024,China,False
+2N60HD5QY40,81788,IB2634,Fitness,77,49.99,jcb,4/17/2024,Brazil,False
+4VM6WR1GG73,72082,ET7368,Food - Breakfast,86,2.49,mastercard,2/24/2024,Indonesia,False
+2XE2F51MN29,22696,AI9509,Food - Produce,22,0.79,jcb,9/27/2024,Germany,True
+9EM3AT2WN17,60228,UA2062,Food - Bread,88,2.79,maestro,10/2/2024,China,True
+4KG3DV6WX46,80684,QR5924,Food - Snacks,57,2.99,jcb,11/12/2024,Myanmar,False
+3GE6QP5UG52,78835,TG6898,Food - Condiments,97,7.99,instapayment,10/22/2024,Sweden,True
+3NT0RT1RN41,60447,SA2145,Food - Beverages,42,2.49,jcb,8/13/2024,Guatemala,False
+6MY5XD6QD16,40563,CX1532,Kitchen,78,34.99,americanexpress,2/9/2024,Brazil,False
+4Q46H61GJ53,53654,AM9767,Food - Sauces,85,3.59,jcb,10/10/2024,Russia,True
+1H48P76AP43,71810,LH3446,Food - Snacks,6,2.99,visa-electron,2/7/2024,Laos,False
+8U50RP8VK63,76092,KE2453,Food - Bakery,89,3.99,jcb,10/25/2024,Argentina,False
+4E23N57YE21,89328,NH5062,Food - Sauces,32,4.99,diners-club-carte-blanche,5/15/2024,Honduras,True
+6UE3NN6FM89,15135,AA2247,Food - Beverages,94,3.29,diners-club-carte-blanche,6/10/2024,Moldova,True
+3HD7JX9WE41,51714,AA3540,Food - Condiments,62,2.79,jcb,1/20/2024,China,True
+5J28YH9MC26,46881,KE7076,Office,25,29.99,americanexpress,9/19/2024,Japan,False
+3P86FW9QX50,44750,KE6218,Kitchen,15,39.99,switch,5/7/2024,China,False
+8G29XN2RQ14,31891,AA3263,Outdoor,95,79.99,visa-electron,11/13/2024,Russia,True
+4G70VE4CC78,16350,BA9018,Beauty,85,39.99,jcb,10/17/2024,China,True
+4C49NW3ND86,68457,AI1800,Food - Canned Goods,53,2.49,jcb,3/15/2024,Indonesia,False
+8GN6YV6XF90,51110,AF6795,Food - Baking,58,6.89,jcb,6/20/2024,Indonesia,False
+8HG4V27FQ46,46294,SA6283,Food - Snacks,6,2.99,jcb,1/28/2024,Philippines,True
+1PH7Y09JP99,88966,NH7134,Food - Prepared Foods,76,5.49,jcb,10/31/2024,Afghanistan,True
+7N55CX1CC13,14201,KL6524,Food - Frozen Meals,2,8.49,maestro,12/14/2024,South Korea,True
+4G29FJ0VJ72,16524,AM4035,Outdoor,97,28.99,jcb,7/23/2024,Indonesia,False
+6UC7AM2PR37,95943,AC5785,Toys,5,22.99,americanexpress,7/24/2024,Japan,True
+6Q19MX6NK91,81103,SK1074,Food - Meat,99,8.99,americanexpress,7/3/2024,China,False
+3QE0WT5UK39,81158,SK2916,Outdoor,63,27.99,diners-club-us-ca,11/8/2024,Indonesia,False
+4KY7U99KN99,74385,AM9862,Clothing - Accessories,13,29.99,jcb,12/25/2024,United States,True
+8Q32C96KG67,20023,IB8526,Food - Prepared Foods,54,5.99,laser,4/20/2024,Afghanistan,False
+4CH7JU6QH25,6205,UA1144,Home Appliances,33,249.99,jcb,4/10/2024,Russia,True
+6F45AU3XH51,69260,BA8723,Outdoor,56,49.99,visa-electron,7/22/2024,China,False
+2UF5GR4UY08,27428,WN9957,Food - Produce,46,0.79,jcb,1/10/2024,United States,True
+2G85AF6NA19,66661,DL4188,Food - Dried Fruits,39,3.79,mastercard,10/26/2024,Germany,False
+7WK7PG7EA20,57644,KE1775,Outdoor,14,19.99,diners-club-enroute,10/28/2024,Indonesia,False
+7U62Y78YT23,54633,AZ5256,Food - Spreads,6,5.99,maestro,3/17/2024,Albania,True
+8AU6U60NV84,75385,AA9620,Food - Grocery,65,3.99,switch,8/7/2024,Philippines,False
+5DF6M01YP55,73592,NZ2113,Outdoor,3,89.99,visa,11/27/2024,China,True
+3T44Q44VX48,5858,AF9449,Food - Grains,31,2.29,diners-club-us-ca,6/28/2024,Dominican Republic,False
+7Y39UN1AP18,5494,KL8781,Food - Dairy,22,2.99,switch,6/20/2024,Indonesia,True
+7Y12EY3TU02,20970,AI8052,Food - Beverages,69,15.99,jcb,1/15/2024,Indonesia,True
+9QF7JG9FV03,11137,AM2576,Home,48,34.99,diners-club-carte-blanche,11/29/2024,Indonesia,True
+7H60YN5FY47,52718,AZ2773,Food - Snacks,21,3.49,switch,3/9/2024,Nigeria,True
+1JJ4CQ3VD15,42507,QF4778,Kitchen,46,24.99,switch,8/24/2024,China,True
+2M99UA0XE53,92042,IB8450,Food - Condiments,80,2.79,switch,11/5/2024,Indonesia,False
+9ET1HQ5ND43,5467,UA9176,Food - Condiments,29,4.29,jcb,4/8/2024,Czech Republic,True
+8NG3T86XK78,20344,WN3007,Outdoor,1,29.99,diners-club-enroute,10/30/2024,Poland,True
+2TD8FK5FP04,82026,BA6235,Food - Snacks,68,2.29,jcb,8/23/2024,Vietnam,True
+4TV8W12GX61,66102,AF8178,Food - Supplements,83,24.99,jcb,9/29/2024,Benin,False
+5PP1D00AA93,66882,ET3500,Tools,7,39.99,jcb,6/4/2024,Indonesia,True
+7QH1MJ0CP32,40931,UA4046,Kitchen,78,15.99,jcb,1/23/2024,Chile,False
+8CP6Q05JG55,7635,SK7657,Pets,23,44.99,jcb,8/29/2024,Ethiopia,False
+6J69VE3YE84,8122,KE3621,Food - Snacks,76,4.49,maestro,2/9/2024,Portugal,False
+7WD3WX5AJ58,89079,NH6079,Food - Sides,59,2.99,jcb,1/7/2024,Bosnia and Herzegovina,False
+6V48PP0ND16,50330,WN1868,Garden,99,19.99,jcb,3/12/2024,Chile,True
+6UH2D74RR84,33563,WN6320,Food - Frozen Meals,92,5.99,jcb,4/27/2024,Peru,True
+1JF1CW9DA49,1860,QR2866,Office,78,24.99,jcb,1/6/2024,Serbia,False
+4MT1F40JR12,20487,AF9326,Food - Snacks,17,2.49,jcb,7/1/2024,Morocco,False
+2H59XA9AD30,39399,AZ2467,Kitchen,72,24.99,americanexpress,6/13/2024,Canada,False
+4C43NA2WM31,41644,AI5177,Kitchen,14,34.99,jcb,2/16/2024,Philippines,True
+9M08GD4XR94,46861,AA4484,Food - Meat,24,12.99,jcb,10/5/2024,Portugal,True
+4WU5JF7DQ20,24530,EK4642,Food - Soups,40,3.49,china-unionpay,11/12/2024,South Africa,True
+4U15MJ9ND75,56409,QR7627,Food - Snacks,78,3.99,jcb,12/3/2024,Mali,True
+7H88U64AT23,96116,LH7411,Accessories,27,29.99,laser,7/8/2024,Ukraine,False
+8Y24AP8FH85,43175,LH3991,Food - Snacks,97,3.29,jcb,7/29/2024,China,False
+1YN5XW9WA75,53033,AI5145,Food - Frozen Foods,60,5.49,mastercard,8/16/2024,Brazil,True
+5WM8NW1EH96,19001,AI6358,Food - Snacks,23,4.29,jcb,9/26/2024,Czech Republic,True
+3QE0W46KR00,49102,QF7073,Food - Baking,65,4.29,visa,6/5/2024,Nigeria,False
+3RF0F49KG68,41280,AC8594,Clothing - Tops,71,19.99,jcb,2/25/2024,Poland,False
+3Y42TR1PF65,69564,WN9446,Food - Breakfast,92,4.49,switch,2/5/2024,Colombia,True
+7QW9T66TW58,64809,SQ2197,Food - Produce,63,1.89,solo,7/19/2024,Tanzania,False
+3Q43DE6DW71,59577,EK7150,Food - Produce,76,1.89,americanexpress,3/9/2024,Yemen,True
+1E26GN3XK52,17232,NZ8208,Food - Seafood,4,12.99,visa-electron,6/12/2024,Ukraine,False
+5XD8TY2GA31,33559,SA1576,Clothing - Tops,32,25.99,visa-electron,11/30/2024,Thailand,True
+9U97X30XX49,54146,TG5067,Food - Snacks,5,3.99,jcb,9/2/2024,Nigeria,False
+3NR2T96CX21,42841,AA7813,Home Appliances,85,299.99,jcb,5/1/2024,Indonesia,False
+7FY0AR6QE52,50195,AV2185,Outdoor,29,349.99,bankcard,7/28/2024,Russia,False
+7FM7QT2EX13,53811,AC9242,Food - Frozen Foods,60,4.99,instapayment,7/3/2024,Portugal,False
+9P27YE0XQ71,47315,BA6344,Kitchen,13,10.99,americanexpress,5/18/2024,Guatemala,False
+8P42RK6TV63,59651,QF3102,Electronics,83,129.99,mastercard,11/13/2024,Ivory Coast,False
+7M96VK1XU12,96582,UA1658,Food - Beverages,28,1.99,maestro,10/30/2024,Nigeria,True
+7TM5NR6KK70,73197,KL8123,Outdoor,86,89.99,jcb,2/10/2024,China,True
+4NQ6Y96RJ62,47276,AZ2524,Sports,91,79.99,mastercard,8/26/2024,Indonesia,True
+9QR6K81YD72,66271,AC4336,Food - Condiments,63,2.99,jcb,10/17/2024,Indonesia,True
+3MX1QN9CN84,80158,SK3193,Pets,98,39.99,bankcard,1/27/2024,Israel,True
+5DV0P54AE15,52658,SA4001,Food - Snacks,16,4.59,jcb,3/22/2024,Albania,True
+5X05AF4RC74,32366,LH6903,Food - Frozen Foods,10,3.99,jcb,10/22/2024,Oman,False
+1P53U22XN76,21357,QR3251,Food - Pasta,30,3.99,instapayment,10/8/2024,Georgia,False
+1K99V29HU91,28863,KE1775,Food - Spreads,60,4.99,bankcard,2/10/2024,China,False
+4MQ1NE4GE78,65075,AI9867,Health,39,59.99,jcb,7/6/2024,Brazil,True
+4D89RH9VK77,51472,CX3481,Pets,19,39.99,jcb,3/9/2024,Argentina,True
+3G20NM8UE63,95698,AM6207,Food - Frozen Foods,29,4.49,mastercard,6/15/2024,Indonesia,False
+7CE7D95AH93,27976,QF7701,Food - Soups,5,4.99,maestro,5/24/2024,China,False
+2RD7F77JG18,5990,LH6171,Accessories,69,24.99,maestro,12/27/2024,Serbia,False
+3JD1AW5MF92,44555,QF3865,Food - Frozen,25,6.99,jcb,1/12/2024,Russia,True
+5NV7CN5QK75,65851,CX6106,Food - Condiments,69,4.99,maestro,6/21/2024,Belarus,True
+4HX7D69MV49,77876,AV4476,Food - Vegetables,51,1.99,jcb,5/21/2024,Indonesia,True
+6FV7UM5PP43,72411,KL5923,Food - Snacks,23,2.99,laser,4/29/2024,Czech Republic,True
+4FY6RN9YT14,47138,CX6637,Tools,55,29.99,visa,4/14/2024,Indonesia,True
+7MA5UH3RG78,35566,QF5533,Food - Grains,49,2.99,visa-electron,1/28/2024,China,True
+7KC2V16EY49,4041,ET4947,Food - Frozen Foods,10,5.99,jcb,8/1/2024,Portugal,True
+1EC6VV5VW99,72617,LA7613,Clothing - Accessories,4,34.99,mastercard,11/5/2024,China,False
+5C21MD6QH33,54951,SA7661,Wearable Tech,70,79.99,visa-electron,11/1/2024,Czech Republic,False
+6VM6WP0YC92,51496,IB2634,Food - Pasta,31,1.89,americanexpress,6/12/2024,Paraguay,True
+1X23HQ5AU99,78465,LA9322,Kitchen,2,79.99,bankcard,5/21/2024,United States,True
+7J05NV9CW24,51773,LA2312,Home,39,14.99,americanexpress,4/2/2024,South Africa,False
+6K25C05KW75,63811,QR2435,Fitness,95,15.99,diners-club-carte-blanche,9/18/2024,Portugal,False
+8CE1HG0RU32,17843,CX1465,Food - Baking,30,4.49,maestro,11/19/2024,Cameroon,True
+2W78UE1DR85,7277,SK2247,Health,14,19.99,americanexpress,4/1/2024,China,False
+4NN7A28GP05,96679,AV2122,Food - Frozen Foods,79,5.99,visa,3/14/2024,Indonesia,True
+5F65E02RF84,96663,SK1094,Pets,93,9.99,jcb,1/9/2024,China,True
+3FU5KR5GN24,13396,WN1868,Food - Baked Goods,33,3.49,jcb,12/3/2024,Peru,False
+2XH3K21TV03,51973,AM7878,Food - Beverages,75,1.5,jcb,5/18/2024,China,False
+7G81CV1QE77,95380,NH4045,Outdoor,15,39.99,jcb,5/12/2024,Russia,False
+2VN0PA2KK54,91044,AI3155,Food - Meat,91,12.99,jcb,2/25/2024,Indonesia,False
+1KE8JT8FR16,79900,BA4267,Electronics,96,199.99,visa-electron,3/9/2024,Philippines,False
+6JW0K92RY91,88419,AA9999,Food - Fruits,17,1.99,visa,6/7/2024,Poland,True
+1ND8G40NK02,17170,CX8409,Food - Meat,71,7.99,jcb,12/15/2024,China,True
+5RA5N64FP12,79695,AI5161,Electronics,39,49.99,switch,10/11/2024,Mexico,False
+1AP6YU9WA52,82356,NZ7151,Food - Beverages,5,1.99,china-unionpay,1/26/2024,France,False
+2W03R85JN34,62370,WN2597,Food - Breakfast,45,5.49,visa-electron,7/29/2024,China,True
+5D68FT4WA51,11784,DL6866,Kitchen,48,99.99,diners-club-carte-blanche,12/28/2024,Russia,False
+4CX2WQ3JE25,50017,AI4273,Smart Home,8,29.99,jcb,5/17/2024,Ireland,True
+2QN3NY5YV37,6048,TG4285,Food - Dried Fruits,2,3.19,jcb,1/9/2024,Maldives,False
+7JW8FW7KA16,2640,AF6038,Food - Canned Goods,13,3.29,jcb,10/17/2024,Cuba,False
+1TM2GN2JV37,32738,BA9448,Outdoor,2,29.99,americanexpress,5/27/2024,China,True
+8QH3YW5WR28,33587,QR9291,Pets,72,26.99,jcb,3/7/2024,Argentina,True
+6UW9WK9QX99,95896,AF3201,Food - Frozen Meals,91,5.99,jcb,2/20/2024,Serbia,False
+9U50TA8WV47,56769,CX4495,Food - Frozen Foods,19,3.99,laser,3/21/2024,Canada,True
+9JR6CD6WR74,5156,DL8773,Food - Frozen Foods,40,4.29,jcb,10/18/2024,Poland,True
+9AH0MQ9EP14,45863,KL4754,Food - Baking Goods,9,1.89,laser,2/5/2024,Sweden,True
+5U96N57YW26,92536,KE9869,Kitchen,87,59.99,switch,9/19/2024,Denmark,False
+1NJ9EF2WQ07,44158,LA9766,Food - Breakfast,13,4.79,jcb,8/29/2024,Sweden,False
+5XE1VG7YK34,91277,QR9747,Food - Sauces,88,4.29,visa-electron,12/30/2024,Argentina,True
+8J10RK7AW73,92177,NZ6996,Kitchen,39,24.99,mastercard,2/15/2024,Jamaica,True
+9JX6EX8EF48,44921,IB8461,Office,19,24.99,maestro,4/16/2024,Indonesia,True
+3Y94A10VQ15,6987,KL8666,Food - Baking,59,1.29,jcb,7/10/2024,Sweden,False
+2P78KA8EG94,21129,WN7180,Food - Health Foods,12,7.99,diners-club-enroute,6/15/2024,Russia,False
+8P90MA9RY76,26688,IB5133,Food - Vegetables,38,3.99,jcb,7/30/2024,Argentina,True
+8YT0YN7AP51,85303,AM1632,Health,9,34.99,jcb,3/9/2024,Myanmar,False
+6K77W51KK16,45201,LA3215,Toys,30,59.99,visa,8/5/2024,Madagascar,False
+2A38RG3RW95,29948,TG8538,Pets,78,39.99,visa,1/13/2024,Indonesia,True
+5UM7P02AH29,65716,TG5404,Food - Household,54,8.99,jcb,7/11/2024,Indonesia,True
+7CY2YU3NW58,45808,AV6190,Food - Deli,56,2.99,visa,1/10/2024,Venezuela,False
+9DG7DN4WE40,78806,LH7664,Health,18,39.99,bankcard,5/15/2024,Russia,True
+4CQ0MT2HW89,37984,EK6800,Food - Prepared Foods,95,5.99,jcb,10/26/2024,Indonesia,True
+9T98XP7QM64,38456,DL9341,Outdoor,35,19.99,visa-electron,8/30/2024,Ukraine,True
+7F24G54KG42,7506,AM9767,Fitness,66,25.99,jcb,2/4/2024,Indonesia,True
+4MG8UT0VQ84,68410,WN1868,Kitchen,76,59.99,jcb,8/26/2024,Thailand,False
+4E70V07AE18,2760,DL4436,Footwear,62,79.99,jcb,5/9/2024,Ukraine,False
+1WX1YK1CJ98,97092,ET5433,Food - Condiments,51,3.99,jcb,7/23/2024,China,True
+4HU9KJ3GM58,9065,SK6106,Toys,49,24.99,mastercard,5/6/2024,China,False
+3T33K63KA10,7353,ET8839,Food - Sauces,50,4.79,mastercard,7/25/2024,Denmark,True
+2FP8Y73YR88,43635,LH2054,Food - Frozen Foods,94,5.49,jcb,3/18/2024,Ukraine,False
+7M29A15YK82,73336,KL6556,Art Supplies,29,25.99,switch,9/25/2024,Ukraine,True
+9MU1PP5JK65,55254,AF8075,Food - Nuts,40,8.49,visa-electron,11/18/2024,Brazil,False
+7CW3CK1NC81,75343,LH1740,Home Appliances,15,249.99,solo,7/20/2024,Brazil,False
+3WK9NT0QE81,31992,QR9059,Food - Nuts,14,6.99,switch,12/9/2024,Morocco,False
+6UJ4HY7QC76,16683,AV2656,Food - Condiments,33,3.99,diners-club-enroute,1/6/2024,Ireland,False
+3HE2PG4NW68,2448,KL7317,Food - Snacks,23,4.99,mastercard,1/14/2024,Philippines,False
+3DK7DV8RC84,88229,SA4548,Food - Snacks,4,3.99,jcb,6/22/2024,South Korea,True
+2TH7X08VJ09,92268,UA3397,Home,6,39.99,jcb,9/14/2024,Tajikistan,True
+9JV3F45XQ95,10221,NZ4525,Clothing - Tops,27,59.99,switch,9/20/2024,Belarus,True
+3D79PH1VY86,1701,ET5834,Food - Breakfast,69,2.89,jcb,11/11/2024,China,False
+1F05TU5PP49,4099,IB7148,Food - Condiments,99,2.49,instapayment,12/11/2024,Russia,True
+4E50Q28JQ52,70063,QF1388,Food - Snacks,76,4.99,diners-club-enroute,4/12/2024,Ukraine,True
+9M86K83YC91,38185,SK9472,Clothing - Tops,18,49.99,jcb,7/1/2024,Ethiopia,False
+9U69QQ7HK61,28155,AA1405,Food - Dairy,59,3.99,mastercard,5/2/2024,China,False
+3F71AA0RW17,64388,AM4741,Food - Snacks,88,2.79,visa,7/19/2024,China,True
+2PJ4AN2YU66,81260,AM6221,Beauty,50,22.99,diners-club-carte-blanche,9/8/2024,Portugal,True
+2E36R09RR78,57237,AV9387,Clothing - Outerwear,61,89.99,jcb,5/3/2024,United States,True
+5XG8G85HA45,2093,AF9068,Food - Beverages,98,15.99,maestro,7/14/2024,China,False
+3FN0R38FC05,87874,SK8133,Food - Condiments,5,3.99,diners-club-enroute,9/27/2024,Philippines,False
+3XQ8F04NP67,48446,BA9625,Home,15,14.99,jcb,8/12/2024,Canada,False

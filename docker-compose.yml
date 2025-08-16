@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: amine070193
+      POSTGRES_DB: first_project_db
+    ports:
+      - "5433:5432"
+
+  etl:
+    build: .
+    depends_on:
+      - db
+    environment:
+      PG_HOST: db
+      PG_PORT: 5432
+      PG_USER: postgres
+      PG_PASSWORD: amine070193
+      PG_DB: first_project_db
