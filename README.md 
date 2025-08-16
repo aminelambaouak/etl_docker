@@ -1,0 +1,19 @@
+# First Project - ETL with PostgreSQL & Docker
+
+## 📌 Overview
+This project is an **ETL (Extract, Transform, Load)** pipeline built in Python, using:
+- `requests` + `pandas` for data extraction & transformation
+- `psycopg2` for loading data into PostgreSQL
+- Docker & Docker Compose for environment setup
+
+The pipeline:
+1. Fetches data from a Mockaroo API
+2. Cleans & transforms the data (calculates `total_price`, fills missing IDs, removes unused columns)
+3. Loads it into a PostgreSQL database table
+
+---
+
+## 🐳 Running with Docker Compose
+### 1. Build & start containers
+```bash
+docker compose up --build
